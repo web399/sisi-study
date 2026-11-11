@@ -1,0 +1,10258 @@
+/* Source answers preserved; see 题库核对说明.md */
+window.OPERATIONS_QUESTIONS = [
+  {
+    "id": "ops-01-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，对于因生产安全事故受到损害的从业人员，以下说法正确的是（  ）。",
+    "options": [
+      "只能依法享有工伤保险补偿",
+      "只能依照有关民事法律的规定向本单位提出赔偿",
+      "除依法享有工伤保险外，可以依照有关民事法律的规定向本单位提出赔偿",
+      "依法享有工伤保险，但应当首先向本单位提出民事赔偿"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，生产经营单位不得因从业人员对本单位安全生产工作提出批评、检举、控告或者（  ），而降低其工资、福利等待遇或者解除与其订立的劳动合同。",
+    "options": [
+      "擅自停止作业",
+      "拒绝违章指挥、强令冒险作业",
+      "拒绝听从指挥",
+      "紧急情况下撤离作业区域"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，从业人员发现直接危及人身安全的紧急情况时，（  ）或者在采取可能的应急措施后撤离作业场所。",
+    "options": [
+      "采取一切技术手段抢险救灾",
+      "自行判断安全风险",
+      "在采取必要的个人防护措施后在现场静观事态变化",
+      "有权停止作业"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，关于安全生产教育和培训，以下说法中不正确的是（   ）。",
+    "options": [
+      "生产经营单位应当对从业人员进行安全生产教育和培训，保证从业人员具备必要的安全生产知识，熟悉有关的安全生产规章制度和安全操作规程",
+      "生产经营单位使用被派遣劳动者的，应当将被派遣劳动者纳入本单位从业人员统一管理，对被派遣劳动者进行岗位安全操作规程和安全操作技能的教育和培训",
+      "生产经营单位接收中等职业学校、高等学校学生实习的，应当对实习学生进行相应的安全生产教育和培训，提供必要的劳动防护用品",
+      "生产经营单位不需要建立安全生产教育和培训档案"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，从业人员在作业过程中，应当严格落实（  ），遵守本单位的安全生产规章制度和操作规程，服从管理，正确佩戴和使用劳动防护用品。",
+    "options": [
+      "一岗双责",
+      "岗位安全责任",
+      "安全生产责任",
+      "规章制度\n B"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-007",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，对于因生产安全事故受到损害的从业人员，以下说法正确的是（  ）。",
+    "options": [
+      "只能依法享有工伤保险补偿",
+      "只能依照有关民事法律的规定向本单位提出赔偿",
+      "除依法享有工伤保险外，可以依照有关民事法律的规定向本单位提出赔偿",
+      "依法享有工伤保险，但应当首先向本单位提出民事赔偿"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-008",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（）依法对安全生产工作进行监督。",
+    "options": [
+      "安全生产协会",
+      "工会",
+      "共青团组织",
+      "妇联组织"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-009",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，企业存在（    ）应向属地负有安全生产监督管理职责的管理部门及时报告。",
+    "options": [
+      "一般安全隐患",
+      "重大安全隐患",
+      "较大安全隐患",
+      "安全生产风险"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-010",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位必须遵守《安全生产法》和其他有关安全生产的法律、法规，加强安全生产管理，建立、健全（   ）和安全生产规章制度。",
+    "options": [
+      "安全生产责任制",
+      "安全生产体系",
+      "安全生产机制",
+      "全员安全生产责任制"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-011",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位的从业人员有依法获得（   ）的权利，并应当依法履行安全生产方面的义务。",
+    "options": [
+      "劳动保护",
+      "安全生产保障",
+      "职业危害知识",
+      "工伤保险"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-012",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位不得使用应当淘汰的危及（   ）的工艺、设备。",
+    "options": [
+      "生命安全",
+      "公共安全",
+      "生产安全",
+      "人身安全"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-013",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "两个以上生产经营单位在同一作业区域内进行生产经营活动，可能危及对方生产安全的，应当指定（   ）安全生产管理人员进行安全检查与协调。",
+    "options": [
+      "兼职",
+      "专职",
+      "专职或者兼职",
+      "临时"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-014",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（7）依据《中华人民共和国安全生产法》，对未依法取得批准或者验收合格的单位擅自从事有关活动的，负责行政审批的部门发现或者接到举报后应当立即（  ），并依法予以处理。",
+    "options": [
+      "予以停产整顿",
+      "予以取缔",
+      "予以责令整改",
+      "予以通报批评"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-015",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（8）依据《中华人民共和国安全生产法》，生产经营单位不得因从业人员对本单位安全生产工作提出批评、检举、控告或者（  ），而降低其工资、福利等待遇或者解除与其订立的劳动合同。",
+    "options": [
+      "擅自停止作业",
+      "拒绝违章指挥、强令冒险作业",
+      "拒绝听从指挥",
+      "紧急情况下撤离作业区域"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-016",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（18）生产经营单位必须遵守《中华人民共和国安全生产法》和其他有关安全生产的法律、法规，加强安全生产管理，建立健全全员安全生产责任制和（  ），加大对安全生产资金、物资、技术、人员的投入保障力度，改善安全生产条件，加强安全生产标准化、信息化建设，构建安全风险分级管控和隐患排查治理双重预防机制，健全风险防范化解机制，提高安全生产水平，确保安全生产。",
+    "options": [
+      "生产经营制度",
+      "主要负责人制度",
+      "安全生产操作规程",
+      "安全生产规章制度"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 16,
+    "sourceNumber": 15,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-017",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（21）依据《中华人民共和国安全生产法》，县级以上地方各级人民政府应当组织有关部门建立完善安全风险评估与论证机制，按照安全风险管控要求，进行产业规划和空间布局，并对位置相邻、行业相近、业态相似的生产经营单位实施（  ）。",
+    "options": [
+      "重点监管",
+      "联合检查",
+      "重大安全风险联防联控",
+      "全过程监管"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 17,
+    "sourceNumber": 16,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-018",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（27）依据《中华人民共和国刑法》，在安全事故发生后，负有报告职责的人员（  ）事故情况，贻误事故抢救，情节严重的，处三年以下有期徒刑或者拘役；情节特别严重的，处三年以上七年以下有期徒刑。",
+    "options": [
+      "不报或者迟报",
+      "迟报或者谎报",
+      "不报或者谎报",
+      "漏报或者迟报"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 18,
+    "sourceNumber": 17,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-019",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（24）在公交车行驶过程中，乘客王某因与驾驶员发生矛盾，遂殴打驾驶员并抢夺方向盘，造成其他乘客受轻微伤，依照《中华人民共和国刑法》，王某触犯了（ ）罪。",
+    "options": [
+      "妨害安全驾驶",
+      "危险驾驶",
+      "交通肇事",
+      "重大责任事故"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 19,
+    "sourceNumber": 18,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-020",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（29）依据《中华人民共和国消防法》，单位损坏、挪用或者擅自拆除、停用消防设施、器材的；责令改正，处（  ）罚款。",
+    "options": [
+      "五百元以下",
+      "五千元以上五万元以下",
+      "一百万元以上",
+      "两千元以下"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 20,
+    "sourceNumber": 19,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-021",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（31）依据《中华人民共和国消防法》，我国的消防工作实行（  ）责任制，建立健全社会化的消防工作网络。",
+    "options": [
+      "消防安全",
+      "政府领导",
+      "消防监督",
+      "防火安全"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 21,
+    "sourceNumber": 20,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-022",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（33）依据《中华人民共和国消防法》，消防安全重点单位实行（  ）防火巡查，并建立巡查记录。",
+    "options": [
+      "每日",
+      "每小时",
+      "每两小时",
+      "每周"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 22,
+    "sourceNumber": 21,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-023",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（35）依据《中华人民共和国消防法》，消防安全重点单位应当对（  ）进行岗前消防安全培训，定期组织消防安全培训和消防演练。",
+    "options": [
+      "消防安全重点部位的职工",
+      "专职消防队员",
+      "安全员",
+      "职工"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 23,
+    "sourceNumber": 22,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-024",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（40）依据《中华人民共和国反恐怖主义法》，对航空器、列车、船舶、城市轨道车辆、（  ）等公共交通运输工具，营运单位应当依照规定配备安保人员和相应设备、设施，加强安全检查和保卫工作。",
+    "options": [
+      "公共电汽车",
+      "大巴车",
+      "中巴车",
+      "长途客运汽车"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 24,
+    "sourceNumber": 23,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-025",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（41）据《中华人民共和国反恐怖主义法》，对航空器、列车、船舶、城市轨道车辆、公共电汽车等公共交通运输工具，营运单位应当依照规定配备（  ），加强安全检查和保卫工作。",
+    "options": [
+      "充足的灭火器",
+      "安保人员和相应设备、设施",
+      "司乘人员",
+      "宣传资料"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 25,
+    "sourceNumber": 24,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-026",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（42）《中华人民共和国反恐怖主义法》规定所称的恐怖活动组织，是指（  ）人以上为实施恐怖活动而组成的犯罪组织。",
+    "options": [
+      "十",
+      "四",
+      "五",
+      "三"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 26,
+    "sourceNumber": 25,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-027",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（46）依据《中华人民共和国职业病防治法》，（   ）应当为劳动者创造符合国家职业卫生标准和卫生要求的工作环境和条件，并采取措施保障劳动者获得职业卫生保护。",
+    "options": [
+      "各级工会组织",
+      "用人单位",
+      "各级政府",
+      "负责人"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 27,
+    "sourceNumber": 26,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-028",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（49）依据《中华人民共和国治安管理处罚法》，非法携带枪支、弹药或者弩、匕首等国家规定的管制器具进入公共场所或者公共交通工具的，处（  ）拘留，可以并处五百元以下罚款。",
+    "options": [
+      "五日",
+      "十日",
+      "五日以上十日以下",
+      "十五日"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 28,
+    "sourceNumber": 27,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-029",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（51）依据《生产安全事故报告和调查处理条例》，以下选项中不属于事故调查处理需要进行的活动的是（   ）。",
+    "options": [
+      "及时、准确地查清事故经过、事故原因和事故损失",
+      "查明事故性质，认定事故责任",
+      "总结事故教训，提出整改措施",
+      "对事故责任相关人员进行培训教育"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 29,
+    "sourceNumber": 28,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-030",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（52）依据《生产安全事故报告和调查处理条例》，道路交通事故、火灾事故自发生之日起（  ）日内，事故造成的伤亡人数发生变化的，应当及时补报。",
+    "options": [
+      "7",
+      "10",
+      "15",
+      "30"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 30,
+    "sourceNumber": 29,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-031",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（56）依据《生产安全事故应急条例》，易燃易爆物品、危险化学品等危险物品的生产、经营、储存、运输单位，矿山、金属冶炼、城市轨道交通运营、建筑施工单位，以及宾馆、商场、娱乐场所、旅游景区等人员密集场所经营单位，应当至少每（   ）组织1次生产安全事故应急救援预案演练，并将演练情况报送所在地县级以上地方人民政府负有安全生产监督管理职责的部门。",
+    "options": [
+      "半年",
+      "1年",
+      "2年",
+      "3年"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 31,
+    "sourceNumber": 30,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-032",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（58）依据《中共中央 国务院关于推进安全生产领域改革发展的意见》，（   ）对本单位安全生产和职业健康工作负全面责任。",
+    "options": [
+      "企业",
+      "地方党委",
+      "地方政府",
+      "安全生产监督管理部门"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 32,
+    "sourceNumber": 31,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-033",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（60）依据《中共中央 国务院关于推进安全生产领域改革发展的意见》，以下关于企业安全生产说法错误的是（   ）。",
+    "options": [
+      "企业对本单位安全生产和职业健康工作负全面责任，要严格履行安全生产法定责任，建立健全自我约束、持续改进的内生机制",
+      "建立企业全过程安全生产和职业健康管理制度，做到安全责任、管理、投入、培训和应急救援“五到位”",
+      "落实企业安全生产责任制度，安全管理人员为安全生产第一责任人，主要技术负责人负有安全生产技术决策和指挥权",
+      "国有企业要发挥安全生产工作示范带头作用，自觉接受属地监管"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 33,
+    "sourceNumber": 32,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-034",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（70）依据《企业安全生产费用提取和使用管理办法》，从事客运业务的交通运输企业以上年度实际营业收入为计提依据，按照（  ）的标准平均逐月提取。",
+    "options": [
+      "2%",
+      "0.5%",
+      "1%",
+      "1.5%"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 34,
+    "sourceNumber": 33,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-035",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（83）依据《中华人民共和国安全生产法》，城市客运企业的主要负责人在本单位发生生产安全事故时，不立即组织抢救或者在事故调查处理期间擅离职守或者逃匿的，给予降级、撤职的处分，并由应急管理部门处上一年年收入百分之六十至百分之一百的罚款；对逃匿的处（  ）日以下拘留；构成犯罪的，依照刑法有关规定追究刑事责任。",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 35,
+    "sourceNumber": 34,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-036",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（85）依据《中华人民共和国安全生产法》，生产经营单位的主要负责人是（  ），对本单位的安全生产工作全面负责。",
+    "options": [
+      "本单位安全生产主要责任人",
+      "本单位安全生产第一责任人",
+      "安全生产主要责任人",
+      "安全生产第一责任人"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 36,
+    "sourceNumber": 35,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-037",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（86）依据《中华人民共和国安全生产法》，生产经营单位的主要负责人是本单位安全生产第一责任人，对本单位的安全生产工作（  ）。其他负责人对职责范围内的安全生产工作负责。",
+    "options": [
+      "全面负责",
+      "负主要责任",
+      "负重要责任",
+      "承担与岗位职责相应的责任"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 37,
+    "sourceNumber": 36,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-038",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（124）依据《中共中央 国务院关于推进安全生产领域改革发展的意见》，对城市客运企业安全生产负有全面责任的第一责任人是（   ）。",
+    "options": [
+      "安全部门负责人",
+      "分管安全生产的负责人",
+      "法定代表人和实际控制人",
+      "其他负责人"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 38,
+    "sourceNumber": 37,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-039",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "下列关于分公司安全生产责任状和安全生产承诺书签订不正确的是？",
+    "options": [
+      "小明取得上岗证后，工班长组织他签订了安全生产责任状。",
+      "小明入职后，工班长让他签订了安全承诺书。",
+      "小明取得上岗证后，副工长（不主持工作）与他签订了安全生产责任状。",
+      "小明未取得上证，故未安排他签订岗位安全生产责任状。"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 39,
+    "sourceNumber": 38,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-040",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（126）依据《中共中央 国务院关于推进安全生产领域改革发展的意见》，城市客运企业领导和工作人员应当既对分管的业务工作负责，又对分管业务范围的安全生产工作负责，该制度被称为（ ）。",
+    "options": [
+      "一把手负责制",
+      "一岗双责制",
+      "党政同责制",
+      "双岗双责制"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 40,
+    "sourceNumber": 39,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-041",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（130）某公司董事长由上一级单位总经理张某兼任，张某长期在外地，不负责该公司日常工作。该公司总经理安某在国外脱产学习，期间日常工作由常务副总经理徐某负责，分管安全生产工作的副总经理姚某协助其工作。依据《中共中央 国务院关于推进安全生产领域改革发展的意见》有关规定，此期间对该公司的安全生产工作全面负责的人是（   ）。",
+    "options": [
+      "张某",
+      "安某",
+      "徐某",
+      "姚某"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 41,
+    "sourceNumber": 40,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-042",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（132）依据《中华人民共和国安全生产法》，城市客运企业主要负责人和安全管理人员应当具备与本企业所从事的生产经营活动相适应的安全生产知识和管理能力，并经县级以上（     ）对其安全生产知识和管理能力考核合格。",
+    "options": [
+      "交通运输主管部门",
+      "安全监督管理部门",
+      "应急管理部门",
+      "职业资格培训中心"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 42,
+    "sourceNumber": 41,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-01-043",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（140）依据《全国安全生产应急救援体系总体规划方案》，应急救援体系是由组织体制、运作机制、（   ）和应急保障系统四部分构成的。",
+    "options": [
+      "运营机制",
+      "法制基础",
+      "指挥机制",
+      "响应机制"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 43,
+    "sourceNumber": 42,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-01-044",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（100）依据《中华人民共和国安全生产法》，以下不属于城市客运企业安全生产目标的是（     ）。",
+    "options": [
+      "防止和减少生产安全事故",
+      "保障人民群众生命和财产安全",
+      "促进经济社会持续健康发展",
+      "促进节能减排"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 44,
+    "sourceNumber": 43,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-01-045",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（94）依据《中华人民共和国安全生产法》，城市客运企业主要负责人未履行安全生产管理职责，导致发生生产安全事故的，给予其（    ）处分。构成犯罪的，依照刑法有关规定追究刑事责任。",
+    "options": [
+      "警告",
+      "严重警告",
+      "撤职",
+      "记过"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 45,
+    "sourceNumber": 44,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-046",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（106）关于城市客运驾驶员安全培训教育，下列说法不正确的是（     ）。",
+    "options": [
+      "城市客运企业应当建立客运驾驶员安全教育培训及考核制度",
+      "安全教育培训内容应当包括：法律法规、典型交通事故案例、技能训练、安全驾驶经验交流、突发事件应急处置训练等",
+      "城市客运企业不应依托互联网方式实施培训教育",
+      "城市客运企业应在客运驾驶员接受安全教育培训后，对客运驾驶员教育培训的效果进行统一考核"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 46,
+    "sourceNumber": 45,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-01-047",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，生产经营单位应当建立健全并落实生产安全事故隐患排查治理制度，采取技术、管理措施，及时发现并消除事故隐患。事故隐患排查治理情况应当如实记录，并通过（  ）等方式向从业人员通报。其中，重大事故隐患排查治理情况应当及时向负有安全生产监督管理职责的部门和职工大会或者职工代表大会报告。",
+    "options": [
+      "职工大会或者职工代表大会",
+      "通告",
+      "信息公示栏",
+      "发文"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 47,
+    "sourceNumber": 46,
+    "sourceType": "多选",
+    "originalAnswer": "AC"
+  },
+  {
+    "id": "ops-01-048",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，生产经营单位应当建立健全并落实生产安全事故隐患排查治理制度，采取技术、管理措施，及时发现并消除事故隐患。事故隐患排查治理情况应当如实记录，并通过职工大会或者职工代表大会、信息公示栏等方式向从业人员通报。其中，重大事故隐患排查治理情况应当及时向（  ）报告。",
+    "options": [
+      "所在地人民政府",
+      "负有安全生产监督管理职责的部门",
+      "职工大会或者职工代表大会",
+      "市场监管部门"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 48,
+    "sourceNumber": 47,
+    "sourceType": "多选",
+    "originalAnswer": "BC"
+  },
+  {
+    "id": "ops-01-049",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，有关部门和机构应当对存在失信行为的生产经营单位及其有关从业人员采取（  ）等联合惩戒措施，并向社会公示。",
+    "options": [
+      "加大执法检查频次",
+      "上调有关保险费率",
+      "暂停项目审批",
+      "行业或者职业禁入"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 49,
+    "sourceNumber": 48,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-01-050",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，事故调查处理应当按照科学严谨、依法依规、实事求是、注重实效的原则，（ ），并对事故责任单位和人员提出处理建议。事故调查报告应当依法及时向社会公布。",
+    "options": [
+      "及时、准确地查清事故原因",
+      "查明事故性质和责任",
+      "评估应急处置工作",
+      "总结事故教训",
+      "提出整改措施"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 50,
+    "sourceNumber": 49,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-051",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，生产经营单位有下列行为之一的，责令限期改正，处十万元以下的罚款；逾期未改正的，责令停产停业整顿，并处十万元以上二十万元以下的罚款，对其直接负责的主管人员和其他直接责任人员处二万元以上五万元以下的罚款：（  ）。",
+    "options": [
+      "未按照规定设置安全生产管理机构或者配备安全生产管理人员、注册安全工程师的",
+      "危险物品的生产、经营、储存、装卸单位以及矿山、金属冶炼、建筑施工、运输单位的主要负责人和安全生产管理人员未按照规定经考核合格的",
+      "未按照规定对从业人员、被派遣劳动者、实习学生进行安全生产教育和培训，或者未按照规定如实告知有关的安全生产事项的",
+      "未如实记录安全生产教育和培训情况的",
+      "未将事故隐患排查治理情况如实记录或者未向从业人员通报的"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 51,
+    "sourceNumber": 50,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-052",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，生产经营单位有下列行为之一的，责令限期改正，处五万元以下的罚款；逾期未改正的，处五万元以上二十万元以下的罚款，对其直接负责的主管人员和其他直接责任人员处一万元以上二万元以下的罚款；情节严重的，责令停产停业整顿；构成犯罪的，依照刑法有关规定追究刑事责任：（  ）。",
+    "options": [
+      "未在有较大危险因素的生产经营场所和有关设施、设备上设置明显的安全警示标志的",
+      "安全设备的安装、使用、检测、改造和报废不符合国家标准或者行业标准的",
+      "未对安全设备进行经常性维护、保养和定期检测的",
+      "关闭、破坏直接关系生产安全的监控、报警、防护、救生设备、设施，或者篡改、隐瞒、销毁其相关数据、信息的",
+      "未为从业人员提供符合国家标准或者行业标准的劳动防护用品的"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 52,
+    "sourceNumber": 51,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-053",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《中华人民共和国安全生产法》，安全生产工作实行管行业必须管安全、管业务必须管安全、管生产经营必须管安全，强化和落实生产经营单位主体责任与政府监管责任，建立（  ）和社会监督的机制。",
+    "options": [
+      "生产经营单位负责",
+      "职工参与",
+      "政府监管",
+      "行业自律"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 53,
+    "sourceNumber": 52,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-01-054",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（121）依据《城市轨道交通运营管理规定》（中华人民共和国交通运输部令2018年第8号），城市轨道交通运营单位应当建立健全本单位的设施设备（   ）制度和技术管理体系。",
+    "options": [
+      "定期检查",
+      "采购使用",
+      "养护维修",
+      "检测评估",
+      "更新改造"
+    ],
+    "answer": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 54,
+    "sourceNumber": 53,
+    "sourceType": "多选",
+    "originalAnswer": "ACDE"
+  },
+  {
+    "id": "ops-01-055",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（127） 依据《城市轨道交通运营安全风险分级管控和隐患排查治理管理办法》（交运规〔2019〕7号），基于城市轨道交通技术特点和行业经验，运营安全风险按照业务板块分为（   ）等。",
+    "options": [
+      "设备运行维修",
+      "设施监测养护",
+      "行车组织",
+      "客运组织",
+      "运行环境"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 55,
+    "sourceNumber": 54,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-056",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（124）依据《城市轨道交通运营管理规定》（中华人民共和国交通运输部令2018年第8号），运营单位有以下哪些行为的，由城市轨道交通运营主管部门责令限期改正；逾期未改正的，处以5000元以上3万元以下的罚款，并可对其主要负责人处以1万元以下的罚款？（   ）",
+    "options": [
+      "列车驾驶员未按照法律法规的规定取得职业准入资格",
+      "未全程参与试运行",
+      "未建立风险数据库和隐患排查手册",
+      "未按照有关规定建立运营突发事件应急预案体系",
+      "未按时组织运营突发事件应急演练"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 56,
+    "sourceNumber": 55,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-057",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（128）依据《城市轨道交通运营安全风险分级管控和隐患排查治理管理办法》（交运规〔2019〕7号），风险数据库中的风险管控措施应符合（   ）等有关规定。",
+    "options": [
+      "设施设备运行维护",
+      "行车组织管理",
+      "客运组织管理",
+      "从业人员管理",
+      "保护区管理"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 57,
+    "sourceNumber": 56,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-058",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（136）依据《城市轨道交通行车组织管理办法》，行车指挥层级自上而下分为线网监控级、线路控制级和现场执行级，下级服从上级指挥。以下哪些内容是属于线网监控级负责的范畴？（   ）",
+    "options": [
+      "监控线网运行状态",
+      "统筹线网运营生产",
+      "指挥应急情况下线网列车运行调整",
+      "执行行车计划及现场应急处置",
+      "对外联络协调"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 58,
+    "sourceNumber": 57,
+    "sourceType": "多选",
+    "originalAnswer": "ABCE"
+  },
+  {
+    "id": "ops-01-059",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（137）依据《城市轨道交通行车组织管理办法》，针对施工行车，以下说法正确的是（   ）",
+    "options": [
+      "施工作业应严格按照施工作业计划执行，不得随意变更",
+      "试列车需进行排列进路、列车驾驶等操作时，应由行车调度、驾驶员操作",
+      "跨线施工、同时包含正线与车辆基地的施工，应做好互控",
+      "施工列车作业区域与相邻的施工区域应至少保持一站间隔",
+      "随车施工人员配合工程车作业时，人员必须在工程车运行方向后方"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 59,
+    "sourceNumber": 58,
+    "sourceType": "多选",
+    "originalAnswer": "ABCE"
+  },
+  {
+    "id": "ops-01-060",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（140）依据《城市轨道交通客运组织与服务管理办法》（交运规〔2019〕15号），以下哪些内容是属于应当在车站醒目位置张贴的内容？（   ）",
+    "options": [
+      "车站管辖范围",
+      "无障碍设施指引",
+      "车站疏散示意图",
+      "禁止、限制携带物品目录",
+      "列车运行计划"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 60,
+    "sourceNumber": 59,
+    "sourceType": "多选",
+    "originalAnswer": "BCD"
+  },
+  {
+    "id": "ops-01-061",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（142）据《城市轨道交通设施设备运行维护管理办法》，城市轨道交通运营单位应做好设施设备的运行测试、管理和安全防护，对列车门紧急解锁装置、站台紧急停车按钮、站台门应急解锁装置以及电扶梯紧急停梯按钮等紧急操作设备，运营单位应通过（   ）等方式加强防护。",
+    "options": [
+      "粘贴警示标签",
+      "视频监控",
+      "安排巡查",
+      "乘客监督",
+      "人员现场值守"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 61,
+    "sourceNumber": 60,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-01-062",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（147）依据《城市轨道交通设施设备运行维护管理办法》，城市轨道交通运营单位应做好设施设备维护施工管理，施工过程中应（   ）。",
+    "options": [
+      "严格落实施工区域管理",
+      "严格落实请销点登记制度",
+      "严格落实车站指挥制度",
+      "加强安全防护",
+      "加强质量监控"
+    ],
+    "answer": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 62,
+    "sourceNumber": 61,
+    "sourceType": "多选",
+    "originalAnswer": "ABDE"
+  },
+  {
+    "id": "ops-01-063",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（149）依据《城市轨道交通运营突发事件应急演练管理办法》（交运规〔2019〕9号），以下哪些内容应当是运营单位综合应急预案应当总体阐述的内容？（   ）",
+    "options": [
+      "本单位运营突发事件的应急工作原则",
+      "应急组织机构及职责",
+      "专项应急预案体系",
+      "预警及信息报告",
+      "应急响应及保障措施"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 63,
+    "sourceNumber": 62,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-064",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（150）依据《城市轨道交通运营突发事件应急演练管理办法》（交运规〔2019〕9号），以下哪些内容是行车调度员现场处置方案的内容？（   ）",
+    "options": [
+      "列车事故/故障",
+      "列车降级运行",
+      "列车区间阻塞",
+      "临时调整行车交路",
+      "道岔失表"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 64,
+    "sourceNumber": 63,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-065",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（156）依据《城市轨道交通初期运营前安全评估管理暂行办法》（交运规〔2019〕1号），城市轨道交通运营单位应满足规定的条件，具备（   ）能力。",
+    "options": [
+      "安全运营",
+      "养护维修",
+      "资源开发",
+      "建设施工",
+      "应急处置"
+    ],
+    "answer": [
+      0,
+      1,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 65,
+    "sourceNumber": 64,
+    "sourceType": "多选",
+    "originalAnswer": "ABE"
+  },
+  {
+    "id": "ops-01-066",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（153）依据《城市轨道交通运营险性事件信息报告与分析管理办法》（交运规〔2019〕10号），运营单位制作的安全警示片应包括（   ）。",
+    "options": [
+      "事件基本情况",
+      "主要原因",
+      "造成后果",
+      "经验教训",
+      "行业同类事件对比"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 66,
+    "sourceNumber": 65,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-01-067",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（163）依据《城市轨道交通正式运营前安全评估规范  第1部分：地铁和轻轨》（交办运〔2019〕83号），城市轨道交通设施出现以下哪几种情况时应及时更换（   ）。",
+    "options": [
+      "普通线路和无缝线路缓冲区的重伤和折断钢轨",
+      "接头夹板出现折断、中央裂纹、其他部位裂纹发展到螺栓孔等伤损",
+      "扣件缺少",
+      "护轮轨螺栓危及行车安全时",
+      "轨面擦伤和剥落掉块接近或达到轻伤"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 67,
+    "sourceNumber": 66,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-01-068",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（159）依据《城市轨道交通初期运营前安全评估技术规范  第1部分：地铁和轻轨》（交办运〔2019〕17号），城市轨道交通试运行情况报告，内容至少包括（   ）",
+    "options": [
+      "试运行组织基本情况",
+      "试运行期间主要设施设备运行情况和相关数据记录",
+      "设施设备运行安全性和可靠性分析",
+      "初期运营客流预测分析",
+      "试运行发现问题整改情况"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 68,
+    "sourceNumber": 67,
+    "sourceType": "多选",
+    "originalAnswer": "ABCE"
+  },
+  {
+    "id": "ops-01-069",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（168）根据《城市轨道交通信号系统运营技术规范（试行）》，城市轨道交通ATO子系统应实现以下哪些主要功能（   ）。",
+    "options": [
+      "列车超速防护",
+      "列车完整性监控",
+      "自动控制开关车门、站台门",
+      "自动折返",
+      "进路自动或人工控制。"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 69,
+    "sourceNumber": 68,
+    "sourceType": "多选",
+    "originalAnswer": "CD"
+  },
+  {
+    "id": "ops-01-070",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（170）根据《城市轨道交通信号系统运营技术规范（试行）》，城市轨道交通ATP、ATO、ATS、CI、DCS等子系统和计轴、电源等设备应具备运行日志记录存储功能，配备可视化中文日志解析工具及说明，并满足下列要求：（   ）",
+    "options": [
+      "日志信息至少包括设备运行状态、操作指令、内部及外部接口数据信息",
+      "在无线带宽满足的前提下，车载ATP/ATO设备应支持运行日志人工远程下载",
+      "运营时段下载应不影响系统正常运行",
+      "车载设备必须满足系统日志和运行记录无线实时自动下载要求",
+      "车载ATP/ATO设备的运行日志存储时间不少于7天，其他设备的运行日志存储时间不少于30天"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 70,
+    "sourceNumber": 69,
+    "sourceType": "多选",
+    "originalAnswer": "ABCE"
+  },
+  {
+    "id": "ops-01-071",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（173）根据《城市轨道交通信号系统运营技术规范（试行）》，关于车站紧急关闭按钮，以下说法错误的是（   ）",
+    "options": [
+      "车站站台和车站控制室应设紧急关闭按钮",
+      "每侧站台应至少设置1个紧急关闭按钮",
+      "车站的站台紧急关闭按钮宜具备触发和复位状态提示功能",
+      "车站控制室的紧急关闭按钮应具备状态和声音提示功能",
+      "车站控制室紧急关闭按钮状态指示灯故障时，紧急关闭功能不能被触发"
+    ],
+    "answer": [
+      1,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 71,
+    "sourceNumber": 70,
+    "sourceType": "多选",
+    "originalAnswer": "BE"
+  },
+  {
+    "id": "ops-01-072",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（175）根据《城市轨道交通自动售检票系统运营技术规范（试行）》，城市轨道交通自动售检票系统（AFC）主要包括以下哪些子系统？（   ）",
+    "options": [
+      "清分子系统（ACC）",
+      "线路子系统（LC或MLC）",
+      "车站子系统（SC）",
+      "车站终端设备",
+      "乘车凭证"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 72,
+    "sourceNumber": 71,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-073",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（177）根据《城市轨道交通运营应急能力建设基本要求》，以下哪些内容属于应急救援队伍岗前培训和在岗期间的持续培训应当涵盖的内容？（   ）",
+    "options": [
+      "应急预案",
+      "应急救援操作中的安全防护措施",
+      "异常情况的鉴别和紧急处置方法",
+      "应急通信联络方法及应急路线",
+      "应急演练评估方法"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 73,
+    "sourceNumber": 72,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-01-074",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（176）据《城市轨道交通运营应急能力建设基本要求》，发生以下哪些情形，运营单位应在3个月内对应急预案进行修订？（   ）",
+    "options": [
+      "实际运行中发生问题需要改进的",
+      "应急预案演练评估报告要求修订的",
+      "有关法律法规、标准、上位预案中的有关规定发生变化的",
+      "因组织架构调整导致隶属关系、业务关系、负责人等发生变化的",
+      "周围环境发生变化，形成新的重大风险源的"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 74,
+    "sourceNumber": 73,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-075",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（177）根据《城市轨道交通运营应急能力建设基本要求》，运营单位应每三年对应急能力进行综合评估，形成应急能力综合评估报告，以下哪些内容是应急能力综合评估报告应当包含的内容？（   ）",
+    "options": [
+      "应急管理制度和机制建设情况",
+      "应急预案编制和管理、培训情况",
+      "应急物资配备和管理情况",
+      "应急演练计划制定、演练开展、评估等情况",
+      "突发事件的应急处置、技术分析等情况"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 75,
+    "sourceNumber": 74,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-01-076",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "责任状责任时间到期后，未重新签订视为无效。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 76,
+    "sourceNumber": 75,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-077",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《城市轨道交通行车组织管理办法》，正常情况下城市轨道交通列车应按照双线、左侧单方向行车。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 77,
+    "sourceNumber": 76,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-078",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（229）依据《城市轨道交通行车组织管理办法》，城市轨道交通运营单位应制定本单位的行车组织规则，特别应对不同车辆型号、信号系统制式的线路分别制定各线路非正常行车操作细则。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 78,
+    "sourceNumber": 77,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-079",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "新入职员工，在未取得上岗证前应进行安全生产责任状签订。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 79,
+    "sourceNumber": 78,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-080",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "分公司全员每年、逐层签订安全生产责任状及安全生产承诺书",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 80,
+    "sourceNumber": 79,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-081",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《城市轨道交通行车组织管理办法》，运营单位应配备酒精检测等设备，有条件的可配备毒品检测设备，在出勤时通过检测、问询等方式对驾驶员状态进行检查。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 81,
+    "sourceNumber": 80,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-082",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "依据《城市轨道交通行车组织管理办法》，运营期间正线、辅助线发生设备故障，施工人员经车站人员同意即可进入抢修区间",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 82,
+    "sourceNumber": 81,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-083",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（247）依据《城市轨道交通行车组织管理办法》，不得使用工程车救援载客列车。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 83,
+    "sourceNumber": 82,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-084",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "（263）依据《城市轨道交通客运组织与服务管理办法》（交运规〔2019〕15号），列车因故在车站停留时，列车车门、站台门应处于关闭状态。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 84,
+    "sourceNumber": 83,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-085",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位的主要负责人是本单位安全生产第一责任人，对本单位的安全生产工作全面负责。（    ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 85,
+    "sourceNumber": 84,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-086",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "工会依法对安全生产工作进行监督。（    ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 86,
+    "sourceNumber": 85,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-087",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位的从业人员有依法获得安全生产保障的权利，并应当依法履行安全生产方面的义务。（    ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 87,
+    "sourceNumber": 86,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-088",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "发生生产安全事故，情节特别严重、影响特别恶劣的，应急管理部门可以按照《安全生产法》规定罚款数额的二倍以上五倍以下对负有责任的生产经营单位处以罚款。（  ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 88,
+    "sourceNumber": 87,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-089",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位应当按照国家有关规定将本单位重大危险源及有关安全措施、应急措施报有关地方人民政府应急管理部门和有关部门备案。（  ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 89,
+    "sourceNumber": 88,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-090",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位重大事故隐患排查治理情况应当及时向应急管理部门和职工大会或者职工代表大会报告。（ ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 90,
+    "sourceNumber": 89,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-091",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营场所和员工宿舍应当设有符合紧急疏散要求、标志明显、保持畅通的出口、疏散通道。（ ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 91,
+    "sourceNumber": 90,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-092",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位为从业人员提供的劳动防护用品，必须符合国家标准或者行业标准。（  ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 92,
+    "sourceNumber": 91,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-093",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "从业人员有权对本单位安全生产工作中存在的问题提出批评、检举、控告；无权拒绝违章指挥和强令冒险作业。(   )",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 93,
+    "sourceNumber": 92,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-094",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位不得因从业人员对本单位安全生产工作提出批评、检举、控告或者拒绝违章指挥、强令冒险作业而降低其工资、福利等待遇或者解除与其订立的劳动合同。(   )",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 94,
+    "sourceNumber": 93,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-095",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "从业人员发现事故隐患或者其他不安全因素，应当立即予以处理，不能及时处理的，向本单位负责人报告。(   )",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 95,
+    "sourceNumber": 94,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-096",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "《安全生产法》规定的行政处罚，由应急管理部门和其他负有安全生产监督管理职责的部门按照职责分工决定。（  ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 96,
+    "sourceNumber": 95,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-097",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "被派遣劳动者的安全生产教育和培训由劳务派遣单位负责。\n（   ）",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 97,
+    "sourceNumber": 96,
+    "sourceType": "判断",
+    "originalAnswer": "×"
+  },
+  {
+    "id": "ops-01-098",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全生产法、安全生产责任制",
+    "question": "生产经营单位采用新工艺、新技术、新材料或者使用新设备，必须对从业人员进行专门的安全生产教育和培训。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 98,
+    "sourceNumber": 97,
+    "sourceType": "判断",
+    "originalAnswer": "√"
+  },
+  {
+    "id": "ops-01-099",
+    "bankId": "operations",
+    "type": "short",
+    "category": "安全生产法、安全生产责任制",
+    "question": "从业人员的安全生产权利义务？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表未提供详细解析。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 99,
+    "sourceNumber": 98,
+    "sourceType": "简答",
+    "originalAnswer": "权利：从业人员有权对本单位安全生产工作中存在的问题提出批评、检举、控告；有权拒绝违章指挥和强令冒险作业。从业人员发现直接危及人身安全的紧急情况时，有权停止作业或者在采取可能的应急措施后撤离作业场所。\n义务：从业人员在作业过程中，应当严格落实岗位安全责任，遵守本单位的安全生产规章制度和操作规程，服从管理，正确佩戴和使用劳动防护用品。从业人员应当接受安全生产教育和培训，掌握本职工作所需的安全生产知识，提高安全生产技能，增强事故预防和应急处理能力。从业人员发现事故隐患或者其他不安全因素，应当立即向现场安全生产管理人员或者本单位负责人报告；接到报告的人员应当及时予以处理。",
+    "referenceAnswer": "权利：从业人员有权对本单位安全生产工作中存在的问题提出批评、检举、控告；有权拒绝违章指挥和强令冒险作业。从业人员发现直接危及人身安全的紧急情况时，有权停止作业或者在采取可能的应急措施后撤离作业场所。\n义务：从业人员在作业过程中，应当严格落实岗位安全责任，遵守本单位的安全生产规章制度和操作规程，服从管理，正确佩戴和使用劳动防护用品。从业人员应当接受安全生产教育和培训，掌握本职工作所需的安全生产知识，提高安全生产技能，增强事故预防和应急处理能力。从业人员发现事故隐患或者其他不安全因素，应当立即向现场安全生产管理人员或者本单位负责人报告；接到报告的人员应当及时予以处理。"
+  },
+  {
+    "id": "ops-01-100",
+    "bankId": "operations",
+    "type": "short",
+    "category": "安全生产法、安全生产责任制",
+    "question": "安全生产承诺书主要内容？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表未提供详细解析。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 100,
+    "sourceNumber": 99,
+    "sourceType": "简答",
+    "originalAnswer": "1.严格遵守公司各项安全生产规章制度。\n2.上下班途中严格遵守交通规则，搭乘合法公共交通工具，安全驾驶。\n3.工作中保持高度警觉，做到不伤害自我、不伤害他人、不被他人伤害、保护他人不被伤害。\n4.遵从公司安全培训安排，积极参加公司安全培训教育，掌握安全生产知识。\n5.了解本岗位防火知识及消防职责，落实消防安全责任。\n6.因个人原因导致出现运营安全生产事故（事件）， 自愿接受并积极配合公司调查处理。",
+    "referenceAnswer": "1.严格遵守公司各项安全生产规章制度。\n2.上下班途中严格遵守交通规则，搭乘合法公共交通工具，安全驾驶。\n3.工作中保持高度警觉，做到不伤害自我、不伤害他人、不被他人伤害、保护他人不被伤害。\n4.遵从公司安全培训安排，积极参加公司安全培训教育，掌握安全生产知识。\n5.了解本岗位防火知识及消防职责，落实消防安全责任。\n6.因个人原因导致出现运营安全生产事故（事件）， 自愿接受并积极配合公司调查处理。"
+  },
+  {
+    "id": "ops-01-101",
+    "bankId": "operations",
+    "type": "short",
+    "category": "安全生产法、安全生产责任制",
+    "question": "全体员工（含劳务派遣人员、实习生）基本安全生产职责？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表未提供详细解析。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全生产法、安全生产责任制",
+    "sourceRow": 101,
+    "sourceNumber": 100,
+    "sourceType": "简答",
+    "originalAnswer": "a)严格落实岗位安全责任，自觉遵守公司安全生产规章制度，服从管理，严格作业纪律。对本岗位的安全生产工作负责。\nb)熟悉劳动安全防护用品和安全设施性能，学习和掌握正确使用各种劳动安全防护器具、消防设施，作业过程中正确佩戴和使用劳动防护用品。\nc)自觉接受安全生产教育和培训，掌握岗位所需的安全生产知识，提高安全生产技能。\nd)发现事故隐患应立即报告，如遇直接危及人身安全的紧急情况应当立即停止作业或采取可能的应急措施后撤离。\ne)落实事故的防范措施，配合事故调查、分析，保护事故现场，参与应急救援。\nf)积极参加安全生产活动，主动提出安全生产工作合理化建议。",
+    "referenceAnswer": "a)严格落实岗位安全责任，自觉遵守公司安全生产规章制度，服从管理，严格作业纪律。对本岗位的安全生产工作负责。\nb)熟悉劳动安全防护用品和安全设施性能，学习和掌握正确使用各种劳动安全防护器具、消防设施，作业过程中正确佩戴和使用劳动防护用品。\nc)自觉接受安全生产教育和培训，掌握岗位所需的安全生产知识，提高安全生产技能。\nd)发现事故隐患应立即报告，如遇直接危及人身安全的紧急情况应当立即停止作业或采取可能的应急措施后撤离。\ne)落实事故的防范措施，配合事故调查、分析，保护事故现场，参与应急救援。\nf)积极参加安全生产活动，主动提出安全生产工作合理化建议。"
+  },
+  {
+    "id": "ops-02-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "在实施安全奖惩过程中，各处室和员工认为不符合本办法或持有异议的，可向（）提出申诉。",
+    "options": [
+      "所在中心",
+      "所在部门",
+      "分公司",
+      "分公司安委会"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》X.X.X",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-02-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "安全天数是指运营公司连续安全生产期间未发生（）及以上责任事故的自然日的累计数。",
+    "options": [
+      "重大事故",
+      "较大事故",
+      "一般A类事故",
+      "一般B类事故"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-02-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "对年度内授予安全生产先进个人荣誉称号员工给予个人（）元奖金。",
+    "options": [
+      "500",
+      "800",
+      "1000",
+      "1200"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》6.1.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-02-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "值班主任、自然站站长、值班站长、班组长、电客车队长所在班组/车站/车队发生一般B类事件，其应（）。",
+    "options": [
+      "经济处罚500元",
+      "经济处罚1000元",
+      "警告处分",
+      "记过处分"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.2.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-02-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "在同一起事故（事件）中，员工同时承担两个及以上责任岗位的，按照（）原则考核。",
+    "options": [
+      "就高",
+      "就低",
+      "重复考核",
+      "不考核"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.2.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-02-007",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "以下哪项行为不视为违反安全管理红线的行为（）。",
+    "options": [
+      "在未准备好进路或错排进路的状态下发布行车指令",
+      "擅自进入轨行区",
+      "未悬挂停止作业牌即开始相关施工检修作业",
+      "未确认信号、进路、道岔及周边环境等因素就动车的"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》附录D",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-02-008",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "对违反安全管理红线的员工，予以降级（降职）处分。受到降级（降职）处分，但又无职级可降的，可（）。",
+    "options": [
+      "记大过处分",
+      "警告",
+      "开除",
+      "诫勉谈话"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.3.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-02-009",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全奖惩",
+    "question": "事故（事件）相关责任人自收到事故（事件）处理意见或安全检查通报（）个工作日内，对考核结果有异议的，可以向所在公司安全管理部门书面提出申诉。",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.4.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-02-010",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全奖惩",
+    "question": "安全考核形式包括（）。",
+    "options": [
+      "解除劳动合同",
+      "经济考核",
+      "组织处理",
+      "纪律处分"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.1.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "多选",
+    "originalAnswer": "BCD"
+  },
+  {
+    "id": "ops-02-011",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全奖惩",
+    "question": "纪律处分包括（）。",
+    "options": [
+      "警告",
+      "记大过",
+      "撤职",
+      "开除"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.1.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-02-012",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全奖惩",
+    "question": "员工个人行为既符合安全奖惩条件，又符合轨道集团或分公司其他制度奖惩条件的，奖罚按（）的原则执行。",
+    "options": [
+      "不重复",
+      "重复",
+      "就高不就低",
+      "就低不就高"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》5.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "多选",
+    "originalAnswer": "AC"
+  },
+  {
+    "id": "ops-02-013",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全奖惩",
+    "question": "安全奖励分为（）。",
+    "options": [
+      "安全奉献奖",
+      "安全荣誉奖",
+      "安全贡献奖",
+      "专项安全奖"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "多选",
+    "originalAnswer": "BCD"
+  },
+  {
+    "id": "ops-02-014",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全奖惩",
+    "question": "下列对于《安全奖惩管理办法》中纪律处分处分期描述正确的是（）。",
+    "options": [
+      "警告-6个月",
+      "记过-9个月",
+      "记大过-12个月",
+      "降级-24个月"
+    ],
+    "answer": [
+      0,
+      3
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.1.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "多选",
+    "originalAnswer": "AD"
+  },
+  {
+    "id": "ops-02-015",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全奖惩",
+    "question": "下列关于发生事故（事件）后人员处理说法错误的是（）。",
+    "options": [
+      "一般B类事件主要责任者受警告处分并经济考核500元",
+      "一般C类事件一定责任者经济考核200元",
+      "一般C类事件责任班组班组长经济考核300元",
+      "一般A类事件一定责任者受警告处分"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.2.5&7.2.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "多选",
+    "originalAnswer": "AC"
+  },
+  {
+    "id": "ops-02-016",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全奖惩",
+    "question": "下列关于发生事故（事件）后人员处理说法正确的是（）。",
+    "options": [
+      "一般B类事故全部责任者受记大过处分",
+      "中级岗位员工违反安全管理红线降为初级工",
+      "事件苗头全内部责任者经济考核500元",
+      "一般A类事件全部责任者受记过处分"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.2.5&7.3.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 16,
+    "sourceNumber": 15,
+    "sourceType": "多选",
+    "originalAnswer": "BC"
+  },
+  {
+    "id": "ops-02-017",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "安全管理红线是日常安全管理和生产工作中不可触碰、不可逾越的安全红线。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》3.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 17,
+    "sourceNumber": 16,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-02-018",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "擅自进入轨行区属于违反安全管理红线的行为。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》附录D",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 18,
+    "sourceNumber": 17,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-02-019",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "对违反安全管理红线的初级岗位员工，应直接吊销上岗证。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.3.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 19,
+    "sourceNumber": 18,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-02-020",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "安全考核中经济考核、组织处理和纪律处分应不重复执行。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.1.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 20,
+    "sourceNumber": 19,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-02-021",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "安全天数是指运营公司连续安全生产期间未发生一般A类及以上责任事件的自然日的累计数。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 21,
+    "sourceNumber": 20,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-02-022",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "员工违反安全管理红线均应进行考核。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》3.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 22,
+    "sourceNumber": 21,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-02-023",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "员工特种证到期，复审考试结束员工回复通过但复审证件未下发，班组可安排其参与相关特种作业。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》附录D",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 23,
+    "sourceNumber": 22,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-02-024",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "组织处理和纪律处分均设置处分期。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.1.2&7.1.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 24,
+    "sourceNumber": 23,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-02-025",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "安全奖惩",
+    "question": "一般B类事故中负有责任的责任人和相关管理人员，由运营公司安委会研究审议，给予考核。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.2.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 25,
+    "sourceNumber": 24,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-02-026",
+    "bankId": "operations",
+    "type": "short",
+    "category": "安全奖惩",
+    "question": "写出安全生产管理红线。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》附录D",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 26,
+    "sourceNumber": 26,
+    "sourceType": "简答",
+    "originalAnswer": "1、在未准备好进路或错排进路的状态下发布行车指令；\n2、擅自进入轨行区，或未经调度批准放人进入轨行区；\n3、未确认信号、进路、道岔及周边环境等因素就动车的；\n4、按下自动驾驶按钮后，未采取制动等措施离开驾驶室的，或列车动车后，驾驶室内无司乘人员的；\n5、列车运行时探身车外，或飞乘飞降；\n6、擅自停送电、约时停送电，或在未撤除地线等防护措施、人员未安全撤离的情况下送电的；\n7、当设施、设备上悬挂停止作业牌后，擅自进行合闸、动车等操作；\n8、擅自拆除设备、设施的安全防护装置，并继续使用；\n9、在禁火区内无措施动用明火的；\n10、未采取高处作业防护措施作业的；\n11、密闭空间作业违反“先通风、后检测、再作业”原则的；\n12、特种作业人员或特种设备作业人员未持证上岗；\n13、特种设备超期未检测，仍在使用的；\n14、重大隐患整改完毕前，未设置防护措施，或擅自恢复作业。",
+    "referenceAnswer": "1、在未准备好进路或错排进路的状态下发布行车指令；\n2、擅自进入轨行区，或未经调度批准放人进入轨行区；\n3、未确认信号、进路、道岔及周边环境等因素就动车的；\n4、按下自动驾驶按钮后，未采取制动等措施离开驾驶室的，或列车动车后，驾驶室内无司乘人员的；\n5、列车运行时探身车外，或飞乘飞降；\n6、擅自停送电、约时停送电，或在未撤除地线等防护措施、人员未安全撤离的情况下送电的；\n7、当设施、设备上悬挂停止作业牌后，擅自进行合闸、动车等操作；\n8、擅自拆除设备、设施的安全防护装置，并继续使用；\n9、在禁火区内无措施动用明火的；\n10、未采取高处作业防护措施作业的；\n11、密闭空间作业违反“先通风、后检测、再作业”原则的；\n12、特种作业人员或特种设备作业人员未持证上岗；\n13、特种设备超期未检测，仍在使用的；\n14、重大隐患整改完毕前，未设置防护措施，或擅自恢复作业。"
+  },
+  {
+    "id": "ops-02-027",
+    "bankId": "operations",
+    "type": "short",
+    "category": "安全奖惩",
+    "question": "组织处理包括哪些。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.1.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 27,
+    "sourceNumber": 27,
+    "sourceType": "简答",
+    "originalAnswer": "通报批评、责令检查、诫勉谈话、调整岗位、责令辞职、免职等。",
+    "referenceAnswer": "通报批评、责令检查、诫勉谈话、调整岗位、责令辞职、免职等。"
+  },
+  {
+    "id": "ops-02-028",
+    "bankId": "operations",
+    "type": "short",
+    "category": "安全奖惩",
+    "question": "纪律处分包括哪些。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.1.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 28,
+    "sourceNumber": 28,
+    "sourceType": "简答",
+    "originalAnswer": "警告、记过、记大过、降级（降职）、撤职和开除。",
+    "referenceAnswer": "警告、记过、记大过、降级（降职）、撤职和开除。"
+  },
+  {
+    "id": "ops-02-029",
+    "bankId": "operations",
+    "type": "short",
+    "category": "安全奖惩",
+    "question": "写出一般A类及以下事件中各责任人的考核规则。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《安全奖惩管理办法》7.2.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全奖惩",
+    "sourceRow": 29,
+    "sourceNumber": 29,
+    "sourceType": "简答",
+    "originalAnswer": "=_xlfn.DISPIMG(\"ID_B5FAF4D1700D4D5699AAB65D95E42A9B\",1)",
+    "referenceAnswer": "=_xlfn.DISPIMG(\"ID_B5FAF4D1700D4D5699AAB65D95E42A9B\",1)"
+  },
+  {
+    "id": "ops-03-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "发生事故（事件）后，按（ ）的原则，积极采取施，迅速组织救援处理。",
+    "options": [
+      "四不放过",
+      "先通后复",
+      "安全第一",
+      "三同时"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-03-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "在运营生产中，造成2人死亡的为（ ）。",
+    "options": [
+      "一般B类事故",
+      "一般B类事件",
+      "一般A类事故",
+      "一般A类事件"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-03-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "对事故（事件）的定性定责和处理如有异议，任何部门和个人有权在通报印发（）个工作日内向运营公司安委会申请复议。",
+    "options": [
+      "2个",
+      "3个",
+      "4个",
+      "5个"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.4.9",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-03-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "事故（事件）发生后，立即进行的信息报告内容可不包含（ ）。",
+    "options": [
+      "最终原因",
+      "事件经过",
+      "前期处置",
+      "现场情况"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》6.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-03-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "事故（事件）发生是由于相关人员行为主要导致的，同时还有其他人员行为共同导致事故（事件）发生的为（ ）。",
+    "options": [
+      "全部责任",
+      "主要责任",
+      "次要责任",
+      "一定责任"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》3.5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-03-007",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "中断行车是指线路中有（ ）个及以上车站或区间发生单向行车中断。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》3.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-03-008",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "事故（事件）调查处理工作应当坚持（ ）原则，坚持以客观事实为依据，以规章制度为准绳认真调查分析，查明原因，分清责任，吸取教训，制定对策，落实整改。",
+    "options": [
+      "四不放过",
+      "先通后复",
+      "安全第一",
+      "三同时"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-03-009",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "在运营生产中，造成中断行车6小时以上24小时以下的为（）。",
+    "options": [
+      "重大事故",
+      "较大事故",
+      "一般A类事件",
+      "一般B类事件"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-03-010",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "在运营生产中，造成首班车晚开、末班车早开20分钟以上30分钟以下的为（）。",
+    "options": [
+      "一般A类事件",
+      "一般B类事件",
+      "一般C类事件",
+      "事件苗头"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-03-011",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "当一起事故（事件）同时符合两类以上事故（事件）的定性条件时，按（）的性质定性。",
+    "options": [
+      "主要责任",
+      "次要责任",
+      "较重",
+      "较轻"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.4.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-03-012",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "自然灾害等原因引发的事故（事件），但存在失察失管行为的，定为（）。",
+    "options": [
+      "责任事故（事件）",
+      "非责任事故（事件）",
+      "部分责任事故（事件）",
+      "无责任事故（事件）"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.4.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-03-013",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "事故（事件）相关的各类音像资料，由（）统一归档保存。",
+    "options": [
+      "所在中心",
+      "所在处室",
+      "安全监察处",
+      "分公司"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.8.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-03-014",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "由分公司牵头组织的事故（事件）调查，应在事故（事件）发生后（）个工作日内完成调查报告。",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-03-015",
+    "bankId": "operations",
+    "type": "single",
+    "category": "事故事件调查",
+    "question": "事故（事件）问题整改应在事故（事件）（）完成。",
+    "options": [
+      "发生后1个月内",
+      "发生后15个工作日内",
+      "通报发文后1个月内",
+      "通报发文后15个工作日内"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》10",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "单选",
+    "originalAnswer": "C",
+    "sourceNote": "原表第三、第四选项都标为C，答案列也是C，无法唯一对应。选项按原顺序呈现，本题仅供复习，暂不计分，需向出题方确认。",
+    "needsReview": true
+  },
+  {
+    "id": "ops-03-016",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "运营事件是指在公司管辖范围内造成或可能造成    等影响正常运营生产但尚未构成事故的各类事件，含风险失察失管等情形。",
+    "options": [
+      "人员受伤",
+      "中断行车",
+      "设备损坏",
+      "经济损失\n答案：ACD"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 16,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ACD"
+  },
+  {
+    "id": "ops-03-017",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "运营公司范围内的的事故（事件）分为特别重大事故、重大事故、较大事故、    、一般A类事件、一般B类事件、一般C类事件和事件苗头九类。（   ）",
+    "options": [
+      "一般A类事故",
+      "一般B类事故",
+      "一般C类事故",
+      "较小事故"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 17,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "AB"
+  },
+  {
+    "id": "ops-03-018",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下    结果的定为一般A类事故？                                                       （    ）",
+    "options": [
+      "2人死亡的",
+      "重伤15人的",
+      "500万直接经济损失的",
+      "中断行车3小时的"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 18,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ACD"
+  },
+  {
+    "id": "ops-03-019",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下    结果的定为一般B类事故？                                                     （    ）",
+    "options": [
+      "1人死亡",
+      "重伤5人",
+      "200万直接经济损失",
+      "中断行车90分钟"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 19,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-03-020",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下   结果的定为一般A类事件？                                                      （    ）",
+    "options": [
+      "2人重伤",
+      "5人轻伤",
+      "80万直接经济损失",
+      "中断行车80分钟"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 20,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-03-021",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下   结果的定为一般A类事件？                                                     （    ）",
+    "options": [
+      "2人重伤",
+      "5人轻伤",
+      "80万直接经济损失",
+      "电梯轿厢滞留人员100分钟"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 21,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-03-022",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下    结果的定为一般A类事件？                                                     （    ）",
+    "options": [
+      "2人重伤的",
+      "较大风险失察失管的",
+      "80万直接经济损失的",
+      "电梯轿厢滞留人员100分钟的"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 22,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ACD"
+  },
+  {
+    "id": "ops-03-023",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下   结果的定为一般B类事件？                                                     （    ）",
+    "options": [
+      "2人轻伤",
+      "30万元直接经济损失",
+      "责任乘客伤害事件保险赔付金额50万元",
+      "首班车晚开25分钟"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 23,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ABD"
+  },
+  {
+    "id": "ops-03-024",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下    结果的定为一般B类事件？                                                    （    ）",
+    "options": [
+      "2人轻伤",
+      "30万元直接经济损失",
+      "较大风险失察失管",
+      "责任晚点40分钟"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 24,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-03-025",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "根据《事故（事件）调查处理规则》规定，造成以下    结果的定为一般C类事件？                                                     （    ）",
+    "options": [
+      "30万元直接经济损失",
+      "员工伤害事件保险赔付金额15万元",
+      "首班车晚开18分钟",
+      "出入口晚开（故障除外）30分钟"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 25,
+    "sourceNumber": null,
+    "sourceType": "多选",
+    "originalAnswer": "BC"
+  },
+  {
+    "id": "ops-03-026",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "联锁故障（）min及以上属于运营险性事件。",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "120"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 26,
+    "sourceNumber": 15,
+    "sourceType": "多选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-03-027",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "事故（事件）通报发文后1个月内应完成（）。",
+    "options": [
+      "考核兑现",
+      "问题整改",
+      "全员教育培训并留档",
+      "专项检查"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》10",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 27,
+    "sourceNumber": 16,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-03-028",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "事故（事件）发生后，立即进行的信息报告内容应包含（）。",
+    "options": [
+      "对运营造成的影响",
+      "初步经济损失",
+      "已造成的伤亡人数",
+      "已经采取的措施及下一步措施"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》6.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 28,
+    "sourceNumber": 17,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-03-029",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "在运营生产中，造成下列后果之一的为重大事故（）。",
+    "options": [
+      "死亡10人以上，30人以下的",
+      "中断行车24小时以上的",
+      "重伤50人以上100人以下的",
+      "1000万元以上5000万元以下直接经济损失的"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 29,
+    "sourceNumber": 18,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-03-030",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "在运营生产中，造成下列后果之一的为一般B类事故（）。",
+    "options": [
+      "1人死亡的",
+      "3人以上6人以下受伤的",
+      "100万元以上300万元以下直接经济损失的",
+      "中断行车30分钟以上1小时以下的"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 30,
+    "sourceNumber": 19,
+    "sourceType": "多选",
+    "originalAnswer": "AC"
+  },
+  {
+    "id": "ops-03-031",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "事故（事件）调查报告内容应包括（）。",
+    "options": [
+      "事故（事件）概况及处置经过",
+      "事故（事件）造成的人员伤亡和直接经济损失",
+      "事故（事件）中存在的问题",
+      "有关图文、视频、音频、数据等资料"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 31,
+    "sourceNumber": 20,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-03-032",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "事故（事件）责任等级分为（）。",
+    "options": [
+      "全部责任",
+      "主要责任",
+      "一定责任",
+      "管理责任"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.4.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 32,
+    "sourceNumber": 21,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-03-033",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "（）发生火灾是运营险性事件。",
+    "options": [
+      "列车",
+      "控制中心",
+      "区间",
+      "主变电所"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 33,
+    "sourceNumber": 22,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-03-034",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "下列属于运营险性事件的是（）。",
+    "options": [
+      "电梯轿厢滞留人员70分钟",
+      "OCC停电",
+      "中央ATS无法监控列车80分钟",
+      "列车受电弓断裂"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 34,
+    "sourceNumber": 23,
+    "sourceType": "多选",
+    "originalAnswer": "BCD"
+  },
+  {
+    "id": "ops-03-035",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "事故事件调查",
+    "question": "下列属于运营险性事件的是（）。",
+    "options": [
+      "3人轻伤的事件",
+      "车地无线通信中断40分钟",
+      "接触网失电1小时及以上",
+      "列车脱轨"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 35,
+    "sourceNumber": 24,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-03-036",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "与事件发生有直接关系的人员不得参与事故（事件）的调查分析。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.2.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 36,
+    "sourceNumber": 25,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-037",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "事故（事件）信息上报应当及时、准确、完整，任何部门和个人对事故不得迟报、漏报、谎报或者瞒报。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》6.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 37,
+    "sourceNumber": 26,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-038",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "在双人作业、一人操作一人监护等工作过程中导致事故（事件）发生时，相关人员按照责任比重承担责任。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.4.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 38,
+    "sourceNumber": 27,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-039",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "运营公司范围内的事故（事件）共分为特别重大事故、重大事故、较大事故、一般A类事故、一般B类事故、一般A类事件、一般B类事件、一般C类事件和事件苗头九类。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 39,
+    "sourceNumber": 28,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-040",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "任何单位和个人不得阻碍、干涉事故（事件）调查的正常工作。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.2.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 40,
+    "sourceNumber": 29,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-041",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "事故（事件）的统计以各分公司安全管理部门的记载为依据，事故（事件）涉及两个以上部门（分公司）时，应将事故（事件）件数列入全部责任或主要责任部门。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.7.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 41,
+    "sourceNumber": 30,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-042",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "事故（事件）调查必要时可召开事故（事件）现场调查会。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.3.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 42,
+    "sourceNumber": 31,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-043",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "事故（事件）调查处理报告应当附有关证据材料，参与事故（事件）调查处理的人员无需在事故（事件）调查处理报告上签名。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 43,
+    "sourceNumber": 32,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-044",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "参与事故（事件）调查的人员及事故（事件）相关人员，未经分公司允许不得擅自发布、传播有关事件的任何信息。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.8.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 44,
+    "sourceNumber": 33,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-045",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "人身伤害中重伤与轻伤是根据《人体损伤程度鉴定标准》及《企业职工伤亡事故分类》进行判定的。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》3.4.1&3.4.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 45,
+    "sourceNumber": 34,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-046",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "对运营生产中的安全风险未及时发现、未做好管控，未导致事故（事件）后果，不构成风险失察失管。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》3.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 46,
+    "sourceNumber": 35,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-047",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "中断行车是指线路中有2个及以上车站或区间发生双向行车中断。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》3.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 47,
+    "sourceNumber": 36,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-048",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "各分公司负责所属分公司一般A类及以下事件日常管理工作，跟踪事件处理结果。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》4.5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 48,
+    "sourceNumber": 37,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-049",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "内部人为破坏造成的事故（事件），经公安机关查定后，定非责任事故（事件）。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.4.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 49,
+    "sourceNumber": 38,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-050",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "长期委外单位在运营管辖范围内发生事故（事件）时，业务归口管理部门负相同等级的责任。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.4.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 50,
+    "sourceNumber": 39,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-051",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "由分公司牵头组织的事故（事件）调查，应在事故（事件）发生后5个工作日内完成调查报告。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》8.5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 51,
+    "sourceNumber": 40,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-052",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "单个车站公共区停电属于运营险性事件。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 52,
+    "sourceNumber": 41,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-053",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "自动扶梯发生逆行属于运营险性事件。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 53,
+    "sourceNumber": 42,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-03-054",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "事故事件调查",
+    "question": "接触网失电30分钟属于运营险性事件。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 54,
+    "sourceNumber": 43,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-03-055",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出特别重大事故构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 55,
+    "sourceNumber": 44,
+    "sourceType": "简答",
+    "originalAnswer": "1、死亡30人以上的；\n2、重伤100人以上（包括急性工业中毒）的；\n3、1亿元以上直接经济损失的。",
+    "referenceAnswer": "1、死亡30人以上的；\n2、重伤100人以上（包括急性工业中毒）的；\n3、1亿元以上直接经济损失的。"
+  },
+  {
+    "id": "ops-03-056",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出重大事故构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 56,
+    "sourceNumber": 45,
+    "sourceType": "简答",
+    "originalAnswer": "1、死亡10人以上，30人以下的；\n2、重伤50人以上100人以下的；\n3、5000万元以上1亿元以下直接经济损失的；\n4、中断行车24小时以上的。",
+    "referenceAnswer": "1、死亡10人以上，30人以下的；\n2、重伤50人以上100人以下的；\n3、5000万元以上1亿元以下直接经济损失的；\n4、中断行车24小时以上的。"
+  },
+  {
+    "id": "ops-03-057",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出较大事故构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 57,
+    "sourceNumber": 46,
+    "sourceType": "简答",
+    "originalAnswer": "1、死亡3人以上，10人以下的；\n2、重伤10人以上50人以下的；\n3、1000万元以上5000万元以下直接经济损失的；\n4、中断行车6小时以上24小时以下的。",
+    "referenceAnswer": "1、死亡3人以上，10人以下的；\n2、重伤10人以上50人以下的；\n3、1000万元以上5000万元以下直接经济损失的；\n4、中断行车6小时以上24小时以下的。"
+  },
+  {
+    "id": "ops-03-058",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出一般A类事故构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 58,
+    "sourceNumber": 47,
+    "sourceType": "简答",
+    "originalAnswer": "1、2人死亡的；\n2、6人以上10人以下重伤的；\n3、300万元以上1000万元以下直接经济损失的；\n4、中断行车2小时以上6小时以下的。",
+    "referenceAnswer": "1、2人死亡的；\n2、6人以上10人以下重伤的；\n3、300万元以上1000万元以下直接经济损失的；\n4、中断行车2小时以上6小时以下的。"
+  },
+  {
+    "id": "ops-03-059",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出一般B类事故构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 59,
+    "sourceNumber": 48,
+    "sourceType": "简答",
+    "originalAnswer": "1、1人死亡的；\n2、3人以上6人以下重伤的；\n3、100万元以上300万元以下直接经济损失的；\n4、中断行车1小时以上2小时以下的。",
+    "referenceAnswer": "1、1人死亡的；\n2、3人以上6人以下重伤的；\n3、100万元以上300万元以下直接经济损失的；\n4、中断行车1小时以上2小时以下的。"
+  },
+  {
+    "id": "ops-03-060",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出一般A类事件构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 60,
+    "sourceNumber": 49,
+    "sourceType": "简答",
+    "originalAnswer": "1、1至2人重伤的；\n2、3人以上轻伤的；\n3、50万元以上100万元以下直接经济损失的；\n4、中断行车30分钟以上1小时以下的；\n5、电梯轿厢滞留人员1.5小时以上的；\n6、重大风险失察失管的。",
+    "referenceAnswer": "1、1至2人重伤的；\n2、3人以上轻伤的；\n3、50万元以上100万元以下直接经济损失的；\n4、中断行车30分钟以上1小时以下的；\n5、电梯轿厢滞留人员1.5小时以上的；\n6、重大风险失察失管的。"
+  },
+  {
+    "id": "ops-03-061",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出一般B类事件构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 61,
+    "sourceNumber": 50,
+    "sourceType": "简答",
+    "originalAnswer": "1、1人以上3人以下轻伤的；\n2、20万元以上50万元以下直接经济损失的；\n3、责任乘客、员工伤害事件保险赔付金额20万元以上30万元以下的；\n4、首班车晚开、末班车早开20分钟以上30分钟以下的；\n5、责任晚点、出入口晚开（故障除外）20分钟以上30分钟以下的；\n6、电梯轿厢滞留人员1小时以上1.5小时以下的；\n7、较大风险失察失管的。",
+    "referenceAnswer": "1、1人以上3人以下轻伤的；\n2、20万元以上50万元以下直接经济损失的；\n3、责任乘客、员工伤害事件保险赔付金额20万元以上30万元以下的；\n4、首班车晚开、末班车早开20分钟以上30分钟以下的；\n5、责任晚点、出入口晚开（故障除外）20分钟以上30分钟以下的；\n6、电梯轿厢滞留人员1小时以上1.5小时以下的；\n7、较大风险失察失管的。"
+  },
+  {
+    "id": "ops-03-062",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出一般C类事件构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.9",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 62,
+    "sourceNumber": 51,
+    "sourceType": "简答",
+    "originalAnswer": "1、5万元以上20万元以下直接经济损失的；\n2、责任乘客、员工伤害事件保险赔付金额10万元以上20万元以下的；\n3、首班车晚开、末班车早开15分钟以上20分钟以下的；\n4、责任晚点、出入口晚开（故障除外）15分钟以上20分钟以下的；\n5、电梯轿厢滞留人员0.5小时以上1小时以下的；\n6、一般风险失察失管的。",
+    "referenceAnswer": "1、5万元以上20万元以下直接经济损失的；\n2、责任乘客、员工伤害事件保险赔付金额10万元以上20万元以下的；\n3、首班车晚开、末班车早开15分钟以上20分钟以下的；\n4、责任晚点、出入口晚开（故障除外）15分钟以上20分钟以下的；\n5、电梯轿厢滞留人员0.5小时以上1小时以下的；\n6、一般风险失察失管的。"
+  },
+  {
+    "id": "ops-03-063",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出事件苗头构成条件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》7.10",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 63,
+    "sourceNumber": 52,
+    "sourceType": "简答",
+    "originalAnswer": "1、0.2万元以上5万元以下直接经济损失的；\n2、责任乘客、员工伤害事件保险赔付金额1万元以上10万元以下的；\n3、较小风险失察失管的。",
+    "referenceAnswer": "1、0.2万元以上5万元以下直接经济损失的；\n2、责任乘客、员工伤害事件保险赔付金额1万元以上10万元以下的；\n3、较小风险失察失管的。"
+  },
+  {
+    "id": "ops-03-064",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出城市轨道交通主要运营险性事件。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 64,
+    "sourceNumber": 53,
+    "sourceType": "简答",
+    "originalAnswer": "列车脱轨、列车冲突、列车撞击、列车挤岔、重点区域火灾、乘客踩踏、车站&轨行区淹水倒灌、土建结构和基础严重病害、大面积停电、通信网络瘫痪、信号系统重大故障、车辆重大故障、接触网断裂或塌网、电梯和自动扶梯重大故障、夹人夹物动车造成乘客伤亡、网络安全事件、其他（造成人员死亡、重伤、3人（含）以上轻伤，或正线连续中断行车1小时（含）以上，或产生较大社会影响以及城市轨道交通运营主管部门要求报告和分析的其他运营事件）。",
+    "referenceAnswer": "列车脱轨、列车冲突、列车撞击、列车挤岔、重点区域火灾、乘客踩踏、车站&轨行区淹水倒灌、土建结构和基础严重病害、大面积停电、通信网络瘫痪、信号系统重大故障、车辆重大故障、接触网断裂或塌网、电梯和自动扶梯重大故障、夹人夹物动车造成乘客伤亡、网络安全事件、其他（造成人员死亡、重伤、3人（含）以上轻伤，或正线连续中断行车1小时（含）以上，或产生较大社会影响以及城市轨道交通运营主管部门要求报告和分析的其他运营事件）。"
+  },
+  {
+    "id": "ops-03-065",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出运营险性事件-重点区域火灾定义。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 65,
+    "sourceNumber": 54,
+    "sourceType": "简答",
+    "originalAnswer": "重点区域火灾是指列车、车站公共区、区间、主要设备房、控制中心、主变电所、车辆基地等发生火灾。",
+    "referenceAnswer": "重点区域火灾是指列车、车站公共区、区间、主要设备房、控制中心、主变电所、车辆基地等发生火灾。"
+  },
+  {
+    "id": "ops-03-066",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出运营险性事件-车辆重大故障定义。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 66,
+    "sourceNumber": 55,
+    "sourceType": "简答",
+    "originalAnswer": "车辆重大故障是指制动失效（含溜车）、车厢分离、受电弓断裂、车门意外打开、车辆关键零部件脱落等危及行车安全情况。",
+    "referenceAnswer": "车辆重大故障是指制动失效（含溜车）、车厢分离、受电弓断裂、车门意外打开、车辆关键零部件脱落等危及行车安全情况。"
+  },
+  {
+    "id": "ops-03-067",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出运营险性事件-通信网络瘫痪定义。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 67,
+    "sourceNumber": 56,
+    "sourceType": "简答",
+    "originalAnswer": "通信网络瘫痪是指行车调度指挥通信、车地无线通信、通信网络传输系统等中断30分钟（含）以上。",
+    "referenceAnswer": "通信网络瘫痪是指行车调度指挥通信、车地无线通信、通信网络传输系统等中断30分钟（含）以上。"
+  },
+  {
+    "id": "ops-03-068",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "写出运营险性事件-信号系统重大故障定义。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 68,
+    "sourceNumber": 57,
+    "sourceType": "简答",
+    "originalAnswer": "信号系统重大故障是指中央和本地自动监控系（ATS）均无法监控列车运行或联锁故障错误持续60分钟（含）以上。",
+    "referenceAnswer": "信号系统重大故障是指中央和本地自动监控系（ATS）均无法监控列车运行或联锁故障错误持续60分钟（含）以上。"
+  },
+  {
+    "id": "ops-03-069",
+    "bankId": "operations",
+    "type": "short",
+    "category": "事故事件调查",
+    "question": "运营险性事件清单中其他类主要指什么。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《事故（事件）调查处理规则》附录A",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "事故事件调查",
+    "sourceRow": 69,
+    "sourceNumber": 59,
+    "sourceType": "简答",
+    "originalAnswer": "造成人员死亡、重伤、3人（含）以上轻伤，或正线连续中断行车1小时（含）以上，或产生较大社会影响以及城市轨道交通运营主管部门要求报告和分析的其他运营事件。",
+    "referenceAnswer": "造成人员死亡、重伤、3人（含）以上轻伤，或正线连续中断行车1小时（含）以上，或产生较大社会影响以及城市轨道交通运营主管部门要求报告和分析的其他运营事件。"
+  },
+  {
+    "id": "ops-04-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "各分公司总经理为运营公司消防安全管理人，每（）至少参加一次防火检查。",
+    "options": [
+      "月",
+      "季度",
+      "半年",
+      "年"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》5.1.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-04-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "车站（）为微型消防站负责人。",
+    "options": [
+      "站长",
+      "值班站长",
+      "值班员",
+      "站务员"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》5.1.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-04-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "消防安全工作的方针（）",
+    "options": [
+      "预防第一、防消结合",
+      "预防为主、防消结合，综合治理",
+      "预防为主、统筹管理",
+      "预防为主、防消结合"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《中华人民共和国消防法》第一章第二条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-04-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "运营期间车站应每（）小时进行一次防火巡查",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-04-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "各建筑物属地部门应指定专人每（）对消防责任区域进行一次防火巡查。",
+    "options": [
+      "班",
+      "日",
+      "周",
+      "月"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-04-007",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "消防安全部门自查单个建筑物每月至少检查（ ）。",
+    "options": [
+      "一次",
+      "两次",
+      "三次",
+      "五次"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.4.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-04-008",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "在气焊、气割作业时气瓶必须直立且固定牢固，氧气乙炔气瓶间距不小于 （ ） 米。",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.1.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-04-009",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "三级动火安全负责人为（ ），现场动火人员与\n动火安全负责人不得为同一人。",
+    "options": [
+      "班组长或班组安全员",
+      "中心工程师或中心安全员",
+      "中心主任",
+      "处室工程师或处室安全员"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.4.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-04-010",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "消防重点部位管理班组至少每季度进行一次消防演练。",
+    "options": [
+      "每月",
+      "每季度",
+      "每年",
+      "每半年"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.7.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-04-011",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "各部门应建立健全消防档案，所有日常检查记录保存时间不得少于（ ）个月。",
+    "options": [
+      "6",
+      "12",
+      "24",
+      "36"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》11.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-04-012",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "《分公司临时动火许可证》的动火时间不超过（ ）天",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.4.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-04-013",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "一张《分公司临时动火许可证》限（ ）处动火有效。",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.4.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-04-014",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "客车消防器材的巡查每（ ）不少于一次。",
+    "options": [
+      "天",
+      "周",
+      "月",
+      "季度"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》10.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-04-015",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "控制室值班员应迅速核实火情，启动灭火处理程序，消防员应按照（ ）到场要求赶赴现场处置。",
+    "options": [
+      "2分钟",
+      "3分钟",
+      "5分钟",
+      "10分钟"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》8.1.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-04-016",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "5公斤干粉灭火器强制报废期限（ ）年。",
+    "options": [
+      "3",
+      "5",
+      "8",
+      "10"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《消防设施通用规范》（GB55036-2022）10.0.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 16,
+    "sourceNumber": 15,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-04-017",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "下列哪项属于三级动火范围",
+    "options": [
+      "OCC大厅",
+      "区间隧道",
+      "运用库",
+      "信号楼"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.2.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 17,
+    "sourceNumber": 16,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-04-018",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "下列哪项属于一级动火范围",
+    "options": [
+      "危险品库",
+      "车站",
+      "检修库",
+      "综合维修中心"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.2.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 18,
+    "sourceNumber": 17,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-04-019",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "消防重点部位员工的消防安全培训应当至少（）进行一次。",
+    "options": [
+      "每月",
+      "每季度",
+      "每半年",
+      "每年"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.3.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 19,
+    "sourceNumber": 18,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-04-020",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "动火后“一清”，动火安全负责人在动火结束后监火时间不少于（）分钟，应彻底清理现场火种，确认现场无遗留隐患，并报告属地部门后，方可确认动火作业完毕。",
+    "options": [
+      "10",
+      "15",
+      "30",
+      "45"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 20,
+    "sourceNumber": 19,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-04-021",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "泡沫灭火器不能用于（ C ）扑救火灾。",
+    "options": [
+      "塑料",
+      "汽油",
+      "金属钠",
+      "纸盒"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：略",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 21,
+    "sourceNumber": 20,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-04-022",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "依据《危险化学品重大危险源辨识》（GB 18218—2009），判断危险化学品重大危险源是依据物质的（  ）。",
+    "options": [
+      "反应活性及其临界量",
+      "爆炸性及其临界量",
+      "毒性及其数量",
+      "危险特性及其数量"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《危险化学品重大危险源辨识》（GB 18218—2009）",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 22,
+    "sourceNumber": 21,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-04-023",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "下列不属于危险化学品特性的是（   ）。",
+    "options": [
+      "易燃",
+      "易爆",
+      "易挥发",
+      "易腐蚀"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：略",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 23,
+    "sourceNumber": 22,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-04-024",
+    "bankId": "operations",
+    "type": "single",
+    "category": "消防安全",
+    "question": "正压式消防空气呼吸器压力低于（）MP须充装。",
+    "options": [
+      "21",
+      "22",
+      "25",
+      "28"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》10.3.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 24,
+    "sourceNumber": 23,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-04-025",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "一级动火范围有哪些？",
+    "options": [
+      "物资仓库",
+      "OCC大厅",
+      "电客车",
+      "存放易燃易爆物品（包括油、煤气、液化气）的区域"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.2.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 25,
+    "sourceNumber": 24,
+    "sourceType": "多选",
+    "originalAnswer": "BCD"
+  },
+  {
+    "id": "ops-04-026",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "二级动火范围有哪些？。",
+    "options": [
+      "食堂",
+      "危险品库",
+      "车站",
+      "变电所"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.2.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 26,
+    "sourceNumber": 25,
+    "sourceType": "多选",
+    "originalAnswer": "CD"
+  },
+  {
+    "id": "ops-04-027",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "消防四懂四会包括（）",
+    "options": [
+      "懂本场所的火灾危险性",
+      "会报火警",
+      "会扑救初起火灾",
+      "会组织疏散逃生"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》5.1.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 27,
+    "sourceNumber": 26,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-04-028",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "消防安全工作的方针（）",
+    "options": [
+      "预防第一",
+      "预防为主",
+      "防消结合",
+      "统筹管理"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《中华人民共和国消防法》第一章第二条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 28,
+    "sourceNumber": 27,
+    "sourceType": "多选",
+    "originalAnswer": "BC"
+  },
+  {
+    "id": "ops-04-029",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "自动消防系统操作人员主要有（）。",
+    "options": [
+      "OCC设调",
+      "场调",
+      "车站值班员",
+      "物业消控室值班员"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》5.1.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 29,
+    "sourceNumber": 28,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-04-030",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "以下哪些为分公司消防重点部位（）。",
+    "options": [
+      "OCC",
+      "信号设备室",
+      "环控机房",
+      "食堂"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.1.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 30,
+    "sourceNumber": 29,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-04-031",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "动火前“八不”，包括（）：",
+    "options": [
+      "防火、灭火措施不落实不动火；",
+      "周围的易燃杂物未清除不动火；",
+      "附近难于移动的易燃结构和重要设备设施未采取安全防范措施不动火；",
+      "凡盛装过油类等易燃液体的容器、管道，未经洗刷干净、排除残存的油质不动火；",
+      "未落实请点不动火。"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 31,
+    "sourceNumber": 30,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-04-032",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "动火中四要是（）。",
+    "options": [
+      "动火前作业部门要指定动火安全负责人",
+      "动火人员与动火安全负责人必须时刻注意动火情况，发现不安全苗头时，要立即停止动火",
+      "发生火灾、爆炸事故时，要及时扑救",
+      "动火人员要严格执行安全操作规程"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 32,
+    "sourceNumber": 31,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-04-033",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "以下哪些属于自动消防设施（）。",
+    "options": [
+      "火灾自动报警系统",
+      "环控系统",
+      "气体灭火系统",
+      "自动喷淋系统"
+    ],
+    "answer": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》10.3.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 33,
+    "sourceNumber": 32,
+    "sourceType": "多选",
+    "originalAnswer": "ACD"
+  },
+  {
+    "id": "ops-04-034",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "消防安全",
+    "question": "分公司消防重点部位有（）",
+    "options": [
+      "OCC",
+      "各级消防控制室",
+      "主变电所",
+      "信号设备房",
+      "物资仓库",
+      "环控机房"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.1.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 34,
+    "sourceNumber": 33,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDEF"
+  },
+  {
+    "id": "ops-04-035",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "消防重点部位管理班组至少每季度进行一次消防演练，其他部门或班组至少每年组织一次消防演练，并做好记录。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.7.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 35,
+    "sourceNumber": 34,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-04-036",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "三级动火的审批，向管理车间进行申报即可。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.2.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 36,
+    "sourceNumber": 35,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-04-037",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "各部门应建立健全消防档案，消防档案的管理，应安排专人负责。所有日常检查记录保存时间不得少于18个月。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》11.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 37,
+    "sourceNumber": 36,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-04-038",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "动火作业时气瓶必须直立且固定牢固，气瓶与明火间距不小于5米，氧气乙炔气瓶间距不小于10米。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.1.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 38,
+    "sourceNumber": 37,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-04-039",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "防火门日常应处于常开状态。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》6.5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 39,
+    "sourceNumber": 38,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-04-040",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "动火作业现场动火人员与动火安全负责人为同一人。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.4.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 40,
+    "sourceNumber": 39,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-04-041",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "一张《分公司临时动火许可证》不限一处动火有效。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.4.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 41,
+    "sourceNumber": 40,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-04-042",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "《临时动火许可证》的动火时间不超过7天，不得更改，如延长时间必须重新办理动火申请。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.4.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 42,
+    "sourceNumber": 41,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-04-043",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "三线电缆中的红线代表零线。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：三线电缆中的红线代表火线。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 43,
+    "sourceNumber": 42,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-04-044",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "消防安全",
+    "question": "动火后一清，动火安全负责人在动火结束后，应彻底清理现场火种，确认现场无遗留隐患，并报告属地部门后，方可确认动火作业完毕。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 44,
+    "sourceNumber": 43,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-04-045",
+    "bankId": "operations",
+    "type": "short",
+    "category": "消防安全",
+    "question": "请简述消防“四懂四会”。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《消防安全管理办法》5.1.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 45,
+    "sourceNumber": 44,
+    "sourceType": "简答",
+    "originalAnswer": "1、“四懂”：懂本场所的火灾危险性，懂预防火灾的措施，懂灭火方法，懂逃生方法；\n2、“四会”会报火警，会使用消防器材，会扑救初起火灾，会组织疏散逃生。",
+    "referenceAnswer": "1、“四懂”：懂本场所的火灾危险性，懂预防火灾的措施，懂灭火方法，懂逃生方法；\n2、“四会”会报火警，会使用消防器材，会扑救初起火灾，会组织疏散逃生。"
+  },
+  {
+    "id": "ops-04-046",
+    "bankId": "operations",
+    "type": "short",
+    "category": "消防安全",
+    "question": "运营公司一、二、三级动火范围分别是哪些。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 46,
+    "sourceNumber": 45,
+    "sourceType": "简答",
+    "originalAnswer": "1、一级动火范围：危险品库、存放易燃易爆物品（包括油、煤气、液化气）的区域，OCC 大厅、电客车、工程车动力车厢；\n2、二级动火范围：车站、变电站（所）、区间隧道、信号楼、控制中心大楼（不含OCC大厅）等；\n3、三级动火范围：运用库、检修库、轨道车库、综合维修中心、其他火灾风险较小的区域等",
+    "referenceAnswer": "1、一级动火范围：危险品库、存放易燃易爆物品（包括油、煤气、液化气）的区域，OCC 大厅、电客车、工程车动力车厢；\n2、二级动火范围：车站、变电站（所）、区间隧道、信号楼、控制中心大楼（不含OCC大厅）等；\n3、三级动火范围：运用库、检修库、轨道车库、综合维修中心、其他火灾风险较小的区域等"
+  },
+  {
+    "id": "ops-04-047",
+    "bankId": "operations",
+    "type": "short",
+    "category": "消防安全",
+    "question": "请简述动火中“四要”。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《消防安全管理办法》7.5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 47,
+    "sourceNumber": 46,
+    "sourceType": "简答",
+    "originalAnswer": "“四要”：1、动火前作业部门要指定动火安全负责人；\n2、动火人员与动火安全负责人必须时刻注意动火情况，发现不安全苗头时，要立即停止动火；\n3、发生火灾、爆炸事故时，要及时扑救；\n4、动火人员要严格执行安全操作规程。",
+    "referenceAnswer": "“四要”：1、动火前作业部门要指定动火安全负责人；\n2、动火人员与动火安全负责人必须时刻注意动火情况，发现不安全苗头时，要立即停止动火；\n3、发生火灾、爆炸事故时，要及时扑救；\n4、动火人员要严格执行安全操作规程。"
+  },
+  {
+    "id": "ops-04-048",
+    "bankId": "operations",
+    "type": "short",
+    "category": "消防安全",
+    "question": "如何使用干粉灭火器？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：略",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 48,
+    "sourceNumber": 47,
+    "sourceType": "简答",
+    "originalAnswer": "先拔掉保险销,一手握住喷嘴对准火点,另一手压下压把。",
+    "referenceAnswer": "先拔掉保险销,一手握住喷嘴对准火点,另一手压下压把。"
+  },
+  {
+    "id": "ops-04-049",
+    "bankId": "operations",
+    "type": "short",
+    "category": "消防安全",
+    "question": "灭火的基本原理有哪些？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：略",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "消防安全",
+    "sourceRow": 49,
+    "sourceNumber": 48,
+    "sourceType": "简答",
+    "originalAnswer": "四种：隔离法、窒息法、冷却法、抑制法。",
+    "referenceAnswer": "四种：隔离法、窒息法、冷却法、抑制法。"
+  },
+  {
+    "id": "ops-05-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "（）负责分公司三、四级应急信息发布或通报（报告）对象需求的审批与录入",
+    "options": [
+      "企划处",
+      "行车中心",
+      "生产调度中心",
+      "党群办公室"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》5.2.1生产调度中心职责h)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-05-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "（）负责运营信息发布短信平台的管理和日常维护，确保平台运行正常。",
+    "options": [
+      "行车设备处",
+      "企划处",
+      "机电中心",
+      "安全监察处"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》5.1.2企划处职责a)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-05-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "轨道保护区或周边范围内外单位施工、天气等原因对日常生产、客运服务造成影响的，（）须及时收集现场情况并报集团公司应急值班室",
+    "options": [
+      "客运中心",
+      "行车中心",
+      "综合处",
+      "生产调度中心"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》8.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-05-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "每个专项应急预案每（）年至少演练一次。",
+    "options": [
+      "半",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》10.4.2 运营公司、分公司每半年至少组织一次专项应急预案实战演练，每个专项应急预案每3年至少演练一次。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-05-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "应急救援队员每人每月参加安全应急相关培训不少于（）学时",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》7.3.2 应急救援队员每人每月参加安全应急相关培训不少于2学时",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-05-007",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "运营公司应急预案体系主要由突发事件应急处置（）、专项应急预案、现场处置方案构成。",
+    "options": [
+      "综合预案",
+      "专项应急预案",
+      "现场处置方案",
+      "岗位指导书"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》9.1.1 运营公司应急预案体系主要由突发事件应急处置综合预案、专项应急预案、现场处置方案构成。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-05-008",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "现场处置方案演练应纳入日常工作常态化开展，每个班组每（）应将有关的现场处置方案至少全部演练一次。",
+    "options": [
+      "季度",
+      "年",
+      "2年",
+      "3年"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》10.4.10现场处置方案演练应纳入日常工作常态化开展，每个班组每年应将有关的现场处置方案至少全部演练一次，",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-05-009",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "（）：预计将要发生Ⅱ级响应（对应一般A类事件）的突发事件，事件可能随时发生，事态可能会扩大。",
+    "options": [
+      "蓝色（Ⅳ级）",
+      "黄色（Ⅲ级）",
+      "橙色（Ⅱ级）",
+      "红色（Ⅰ级）"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营分公司突发事件应急处置综合预案》7.2.5.1 运营生产类预警",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-05-010",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "预警解除信息按照（）的原则。",
+    "options": [
+      "谁发布、谁解除",
+      "先紧急、后一般",
+      "先通后复",
+      "先紧急信息、后关键信息"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营公司突发事件应急处置综合预案》7.2.8 预警解除",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-05-011",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "线网指挥中心()负责接收或收集预警类信息，并组织发布相应级别的预警响应。",
+    "options": [
+      "客运中心",
+      "机电中心",
+      "生产调度中心",
+      "安全管理处"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营公司突发事件应急处置综合预案》7.2.3 预警发布主体",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-05-012",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "各部门（）是应急安全教育的责任人，要根据本部门的实际情况，组织员工学习应急预案，提高员工的忧患意识。",
+    "options": [
+      "安全工程师",
+      "分管负责人",
+      "主要负责人",
+      "班组长"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营公司突发事件应急处置综合预案》13.1.1 各部门主要负责人是应急安全教育的责任人，要根据本部门的实际情况，组织员工学习应急预\n案，提高员工的忧患意识。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-05-013",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "气象部门、应急部门发布气象预警（预警信号）或合肥市启动市级 响应时，线网控制中心()组织发布预警，落实预警信息传达、应急准备及应急处置。",
+    "options": [
+      "客运中心",
+      "机电中心",
+      "生产调度中心",
+      "安全管理处"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营公司突发事件应急处置综合预案》7.2.5.3气象部门、应急部门发布气象预警（预警信号）或合肥市启动市级 响应时，线网控制中心/生产调度中心组织发布预警，落实预警信息传达、应急准备及应急处置。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-05-014",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "每次演练全过程应有相应记录，并附有相应的演练问题整改落实情况，至少保存2年。",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营公司突发事件应急处置综合预案》13.3.3 每次演练全过程应有相应记录，并附有相应的演练问题整改落实情况，至少保存2年。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-05-015",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "当列车延误达到（）分钟且预计进一步晚点时，生产调度中心须及时发布PIS应急信息。",
+    "options": [
+      "10",
+      "8",
+      "15",
+      "20"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《乘客应急信息发布规定》b) 当列车延误达到10分钟且预计进一步晚点时，生产调度中心须及时发布PIS应急信息",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-05-016",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": ")当需要清客、越站时，原则上生产调度中心应至少提前2站（包括2站）通知相应车次司机及受影响车站。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《乘客应急信息发布规定》c) 当需要清客、越站时，原则上生产调度中心应至少提前2站（包括2站）通知相应车次司机 及受影响车站。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 16,
+    "sourceNumber": 15,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-05-017",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "PIS 乘客应急信息由生产调度中心（）或（）授权具备乘客应急信息发布能力的人发\n布。",
+    "options": [
+      "电调",
+      "总调度长",
+      "值班主任",
+      "行调"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《乘客应急信息发布规定》5.3.1 PIS 乘客应急信息由生产调度中心值班主任或值班主任授权具备乘客应急信息发布能力的人发布。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 17,
+    "sourceNumber": 16,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-05-018",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "安全工器具普通检查主要侧重于在用安全工器具的使用状态、维护保养开展情况、标识标签完整情况、保管存放环境等，频次为（）月不少于一次。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "半"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《安全工器具管理办法》主要侧重于在用安全工器具的使用状态、维护保养开展情况、标识标签完整情况、保管存放环境等方面，并按要求做好《安全工器具检查记录表》（附录H），每月不少于一次。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 18,
+    "sourceNumber": 17,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-05-019",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "（）是用于防止感应电压危害的个人用接地装置。",
+    "options": [
+      "个人保护接地线（俗称小地线）",
+      "绝缘隔板",
+      "绝缘手套",
+      "携带型短路接地线"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《安全工器具管理办法》附录A个人保护接地线（俗称“小地线”）是用于防止感应电压危害的个人用接地装置。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 19,
+    "sourceNumber": 18,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-05-020",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "安全工器具经试验检测合格后，必须在合格的安全工器具上（不妨碍绝缘性能且醒目的部位） 贴上（）标签。",
+    "options": [
+      "安全使用",
+      "试验证",
+      "合格证",
+      "试验合格证"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《安全工器具管理办法》5.2.4安全工器具经试验检测合格后，必须在合格的安全工器具上（不妨碍绝缘性能且醒目的部位） 贴上“试验合格证”标签。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 20,
+    "sourceNumber": 19,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-05-021",
+    "bankId": "operations",
+    "type": "single",
+    "category": "应急管理",
+    "question": "分公司级以上演练鼓励邀请（）、志愿者等社会公众参与应急演练，对参与应急演练的社会公众、应提供必要的培训和安全防护。",
+    "options": [
+      "专家",
+      "行业代表",
+      "先进代表",
+      "常乘客"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》10.4.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 21,
+    "sourceNumber": 20,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-05-022",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "安全工器具进行全面检查，主要分为（）和（）两种形式。",
+    "options": [
+      "抽测检查",
+      "专项检查",
+      "普通检查",
+      "专人检查"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《安全工器具管理办法》5.6.6.2 工作检查是要求生产中心、车间分级对在用安全工器具进行全面检查，主要分为专项检查和普通检查两种形式。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 22,
+    "sourceNumber": 21,
+    "sourceType": "多选",
+    "originalAnswer": "BC"
+  },
+  {
+    "id": "ops-05-023",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "安全工器具分为（）（）（）三大类。",
+    "options": [
+      "绝缘安全工器具",
+      "一般防护安全工器具",
+      "安全围栏（网）和标示牌",
+      "通用性安全工器具"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《安全工器具管理办法》附录A安全工器具分为绝缘安全工器具、一般防护安全工器具、安全围栏（网）和标示牌三大类。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 23,
+    "sourceNumber": 22,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-05-024",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "下列属于一级应急信息的选项有？",
+    "options": [
+      "区间乘客紧急疏散或公交接驳",
+      "首班车预计晚开 20 分钟（含）以上",
+      "突发应急情况需要请求上级部门支援的",
+      "轻伤1人"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》附录F",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 24,
+    "sourceNumber": 23,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-05-025",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "（下列那些行为？会根据影响结果对相关责任部门、责任人进行相应问责。",
+    "options": [
+      "漏报",
+      "谎报",
+      "迟报",
+      "错报"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》9责任追究：对突发事件信息迟报、漏报、谎报、瞒报、错报、擅自传播、发布突发事件信息的相关责任部门、责任人。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 25,
+    "sourceNumber": 24,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-026",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "发生突发事件需要对社会发布应急信息回应社会舆论关切，可通过那些渠道进行发布？",
+    "options": [
+      "微博",
+      "微信",
+      "官网",
+      "APP"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》7.4向社会发布应急信息",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 26,
+    "sourceNumber": 25,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-027",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "按照突发事件的危害程度、发展情况和紧迫性等因素，由低到高依次划分为（）（）（）（）四个级别",
+    "options": [
+      "蓝色\n（Ⅳ级）",
+      "黄色（Ⅲ级）",
+      "橙色（Ⅱ级）",
+      "红色（Ⅰ级）"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营分公司突发事件应急处置综合预案》7.2.5.1 运营生产类预警",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 27,
+    "sourceNumber": 26,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-028",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "司应结合本专业特性及特殊时期开展针对性演练，如等应急演练，针对性演练应覆盖到所涉岗位全员。",
+    "options": [
+      "特殊气象",
+      "自然灾害",
+      "防洪防汛",
+      "恐怖袭击"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》10.4.9",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 28,
+    "sourceNumber": 27,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-029",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "突发事件报告的基本原则是：（）。",
+    "options": [
+      "快捷",
+      "准确",
+      "直报",
+      "续报"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营分公司突发事件应急处置综合预案》8.2 突发事件报告",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 29,
+    "sourceNumber": 28,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-030",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "出现下列（）情况属于Ⅰ级响应条件。",
+    "options": [
+      "出现或可能出现中断行车30分钟以上的",
+      "出现或可能出现中断行车1小时以上的",
+      "运营期间正线出现脱轨、冲突、撞击、挤岔",
+      "接触网断线、断裂、塌网"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营分公司突发事件应急处置综合预案》9.1.4 Ⅰ级响应",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 30,
+    "sourceNumber": 29,
+    "sourceType": "多选",
+    "originalAnswer": "BCD"
+  },
+  {
+    "id": "ops-05-031",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "出现下列（）情况属于Ⅳ级响应条件。",
+    "options": [
+      "出现或可能出现运营线路列车救援；",
+      "出现或可能出现车站紧急关站或疏散；",
+      "出现或可能出现区间乘客疏散或公交接驳；",
+      "行车调度指挥、车地无线、通讯网络等系统中断30分钟以上的；"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营分公司突发事件应急处置综合预案》9.1.1 Ⅳ级响应",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 31,
+    "sourceNumber": 30,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-032",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "下列属于运营分公司应急处置机构的是（）。",
+    "options": [
+      "应急领导小组",
+      "应急指挥小组",
+      "现场处置小组",
+      "应急保障小组"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营分公司突发事件应急处置综合预案》6.2 应急处置机构",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 32,
+    "sourceNumber": 31,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-033",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "按照突发事件的性质、演变过程和发生机理，将运营公司突发事件划分为：（）。",
+    "options": [
+      "自然灾害类",
+      "运营生产类",
+      "公共卫生事件类",
+      "社会安全事件类"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营分公司突发事件应急处置综合预案》按照突发事件的性质、演变过程和发生机理，将运营公司突发事件划分为：自然灾害类、运营生产类、公共卫生事件类、社会安全事件类",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 33,
+    "sourceNumber": 32,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-034",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "应急物资使用、管理部门应做好应急物资的（）等工作。",
+    "options": [
+      "领用、保管、养护、",
+      "补充、更新、报废",
+      "采购、发放",
+      "调配、归还、接收"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》5.3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 34,
+    "sourceNumber": 33,
+    "sourceType": "多选",
+    "originalAnswer": "ABD"
+  },
+  {
+    "id": "ops-05-035",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "应急物资存放处应放置信息牌，信息牌中应明确（）。",
+    "options": [
+      "物资名称",
+      "数量",
+      "管理部门、管理人员",
+      "联系电话"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》6.2.5 应急物资须分类存放，存放位置应便于保管、取用，且符合应急物资存放条件。应急物资存放处应放置信息牌(包含物资名称、数量、管理部门、管理人员、联系电话等信息) ，粘贴“应急救援专用”标识，应急工具包/箱内应存有应急物资清单。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 35,
+    "sourceNumber": 34,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-036",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "应急物资（）后应填写《应急物资检查/维护记录表》。",
+    "options": [
+      "巡视检查",
+      "保养",
+      "维护",
+      "检修"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》6.2.6应急物资巡视检查、保养、维护后应填写《应 急物资检查/维护记录表》",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 36,
+    "sourceNumber": 35,
+    "sourceType": "多选",
+    "originalAnswer": "ABC",
+    "sourceNote": "原表选项字母有重复，已按原排列顺序规范标签，选项内容与答案含义不变。"
+  },
+  {
+    "id": "ops-05-037",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "应急物资储备坚持（）原则。",
+    "options": [
+      "常备不懈",
+      "以防为主",
+      "合理布局",
+      "方便调运"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》4.1 应急物资储备坚持“常备不懈、以防为主、合理布局、方便调运”的原则",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 37,
+    "sourceNumber": 36,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-038",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "应急物资管理坚持（）原则。",
+    "options": [
+      "账物相符",
+      "规范管理",
+      "定额储备",
+      "兼备生产"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》4.2 应急物资管理坚持“定额储备、账物相符、规范管理、保障急需”的原则。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 38,
+    "sourceNumber": 37,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-05-039",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "应急管理工作应遵循（）原则。",
+    "options": [
+      "预防为主、防消结合",
+      "以人为本、减少危害",
+      "统一领导、分级负责",
+      "快速反应、协同应对"
+    ],
+    "answer": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》4原则",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 39,
+    "sourceNumber": 38,
+    "sourceType": "多选",
+    "originalAnswer": "BCD"
+  },
+  {
+    "id": "ops-05-040",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "应急救援队培训包含（）。",
+    "options": [
+      "本单位应急相关制度",
+      "、应急救援操作中的安全防护措施",
+      "、应急物资使用方法",
+      "自救（互救）知识"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》7.3.2培训须包含应急有关的法律法规、本单位应急相关制度、应急预案、应急救援操作中的安全防护措施、应急物资使用方法、异常情况的鉴定和紧急处置方法、自救（互救）知识、应急通信联络方法、应急路线及应急突发案件案例学习等；",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 40,
+    "sourceNumber": 39,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-05-041",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "应急管理",
+    "question": "下列情况属于Ⅳ级响应的是（）。",
+    "options": [
+      "出现或可能出现首班车晚开、末班车早开、晚点、出入口晚开（故障除外）15分钟以上的；",
+      "出现或可能出现电梯轿厢滞留人员0.5小时以上的；",
+      "单站出现突发大客流并有持续增加趋势；",
+      "场段内出现调车脱轨、冲突、撞击、挤岔；"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》12.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 41,
+    "sourceNumber": 40,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-05-042",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "责任轻伤2人或直接经济损失5万元（含）以上属于一级应急信息。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》附录F",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 42,
+    "sourceNumber": 41,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-05-043",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "一、二级应急信息必须20分钟内通过短信平台进行推送。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》附录B",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 43,
+    "sourceNumber": 42,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-05-044",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "出现出入口关闭的属于四级应急信息。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》附录B",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 44,
+    "sourceNumber": 43,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-05-045",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "应急物资巡视检查、保养、维护后应填写《应急物资检查/维护记录表》。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》6.2.6应急物资巡视检查、保养、维护后应填写《应 急物资检查/维护记录表》",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 45,
+    "sourceNumber": 44,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-05-046",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "各专业应急物资至少每季度巡视检查、保养、维护一次。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》6.2.6各专业应急物资至少每月巡视检查、保养、维护一次",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 46,
+    "sourceNumber": 45,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-05-047",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "各类应急物资可用于应急抢险与应急演练，也可用于日常生产物资使用。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》6.2.3 原则上应急物资只用于应急处置及应急演练。严禁生产物资与应急物资混用，确保应急物资“专物专用”。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 47,
+    "sourceNumber": 46,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-05-048",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "应急物资使用部门应规范应急物资出入库登记手续，明确具体管理人员，做到实物与台帐相符。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《应急物资管理办法》6.2.2 应急物资使用部门应规范应急物资出入库登记手续，明确具体管理人员，做到实物与台帐相符。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 48,
+    "sourceNumber": 47,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-05-049",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "当一条线路同时发生两件及以上紧急情况需在PIS发布应急信息时，原则上优先发布影响度较小紧急情况的PIS应急信息。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》当一条线路同时发生两件及以上紧急情况需在PIS发布应急信息时，原则上优先发布影响度较大紧急情况的PIS应急信息。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 49,
+    "sourceNumber": 48,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-05-050",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "应急救援队总队队长由处室负责人或分管副职担任，分队队长由中心工程师担任。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《应急管理办法》原则上，总队队长由处室（中心）\n负责人或分管副职担任，分队队长由车间主任或分管副职担任。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 50,
+    "sourceNumber": 49,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-05-051",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "应急管理",
+    "question": "运营险性事件及以上属于一级应急信息。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《突发事件应急信息发布和报告实施办法》附录F",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "应急管理",
+    "sourceRow": 51,
+    "sourceNumber": 50,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "运营安全风险按照业务板块分为设施检测养护、设备运行维修、（  ）、客运组织、运行环境等。",
+    "options": [
+      "客流组织",
+      "行车组织",
+      "调度指挥",
+      "施工组织"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "运营公司范围内的风险点根据两种原则划分为工作单元类和操作步骤类，其中不属于工作单元的有（）",
+    "options": [
+      "设施",
+      "部位",
+      "场所",
+      "人员培训不到位"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，风险评估和直接判定结果不同 时，依照（  ）认定。",
+    "options": [
+      "就低原则",
+      "风险评估",
+      "直接判定",
+      "就高原则"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.9",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，风险等级大小可以按照哪个选项关系式表示？",
+    "options": [
+      "D=L*C",
+      "R=F*C",
+      "D=F*C",
+      "R=D*C"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "以下（ ）不属于风险等级描述的。",
+    "options": [
+      "重大",
+      "大",
+      "一般",
+      "较小"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-007",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "运营公司出现以下哪种情形不能直接认定为重大风险的是（ ）",
+    "options": [
+      "违反法律、法规及国家标准中强制性条款，且造成重大安全隐患的；",
+      "发生过死亡、重伤、职业病、重大财产损失事故，且现在发生事故的条件依然存在的；",
+      "符合《安全生产法》所规定重大危险源的；",
+      "违反运营公司安全生产红线行为的"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-008",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "下列关于安全风险描述正确的是？",
+    "options": [
+      "安全风险是安全事故（事件）发生的可能性与其后果严重性的组合。",
+      "安全风险是安全事故（事件）发生的可能性与本质安全的组合。",
+      "安全风险是安全事故（事件）发生的危险性与危险源的组合。",
+      "安全风险是安全事故（事件）发生的危险性与本质安全的组合。"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-009",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "下列关于风险点的描述正确的是？",
+    "options": [
+      "风险点的描述分为工作单元、操作步骤两类。",
+      "风险点的描述分为生产单元、操作步骤两类。",
+      "风险点的描述分为生产单元、工作单元两类。",
+      "风险点的描述分为生产单元、存储单元两类。"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-010",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "《运营安全风险辨识、评估及分级管控管理办法》是根据（  ）等有关规定，并结合运营公司实际，特制定的办法。",
+    "options": [
+      "城市轨道交通运营安全风险分级管控和隐患排查治理管理办法",
+      "安全生产事故隐患排查治理暂行规定",
+      "危险化学品重大危险源监督管理暂行规定",
+      "危险化学品安全管理条例"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：略",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-011",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》相关规定，下列属于设施监测养护类风险的是？",
+    "options": [
+      "桥梁、隧道、轨道、路基、车站、控制中心和车辆基地等方面的风险。",
+      "车辆、供电、通信、信号、机电等方面的风险。",
+      "车站作业、客流疏导、乘客行为等方面的风险。",
+      "生产环境、自然环境、保护区环境、社会环境等方面的风险。"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-012",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》相关规定，下列属于设备运行维修类风险的是？",
+    "options": [
+      "桥梁、隧道、轨道、路基、车站、控制中心和车辆基地等方面的风险。",
+      "车辆、供电、通信、信号、机电等方面的风险。",
+      "车站作业、客流疏导、乘客行为等方面的风险。",
+      "生产环境、自然环境、保护区环境、社会环境等方面的风险。"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-013",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》中的风险点划分原则规定，分析人员培训不到位，知识或技能不满足要求；未按规定执行作业步骤，尤其是关键作业环节未按规定执行；特殊作业未按要求审批、审核、作业前后确认等管控措施方面的因素，属于什么原则？",
+    "options": [
+      "工作单元类",
+      "操作步骤类",
+      "生产单元类",
+      "储存单元类"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-014",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "运营公司从人员伤亡、经济损失、行车晚点、环境污染、社会影响等方面，将后果严重程度等级分为四级，其中严重程度取值为？",
+    "options": [
+      "10",
+      "5",
+      "2",
+      "1"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-015",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，可能性级别为高的取值区间为？",
+    "options": [
+      "(9-10]",
+      "(6-9]",
+      "(3-6]",
+      "(10-12]"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-016",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，可能性取值区间为(1-3]发生的可能性为？",
+    "options": [
+      "可能",
+      "极不可能",
+      "不大可能",
+      "易"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 16,
+    "sourceNumber": 15,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-017",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据分公司《运营安全风险辨识、评估及分级管控管理办法》规定，D(风险等级大小)的取值区间为 (5、20]，其风险等级为？",
+    "options": [
+      "一般风险",
+      "较大风险",
+      "较小风险",
+      "重大风险"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 17,
+    "sourceNumber": 16,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-018",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，风险管控措施应符合设施设备运行维护、行车组织管理、客运组织管理、从业人员管理、保护区管理等有关规定，下列不属于风险管控措施的是？",
+    "options": [
+      "提高人员安全意识，加强安全应急知识及技能培训。",
+      "加强作业流程的安全防护和监督检查，规范安全行为。",
+      "通过技术防范或改造手段，提高生产运营基础设施、运输工具等设施设备的安全可靠性。",
+      "通过制定专项排查方案，优化安全生产的管理制度、机制，优化、更新安全操作规程。"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 18,
+    "sourceNumber": 17,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-019",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，各专业班组长对（  ）的管控措施落实负责。",
+    "options": [
+      "重大风险",
+      "较大风险",
+      "一般风险",
+      "较小风险"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.1.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 19,
+    "sourceNumber": 18,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-020",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，各中心负责人对（  ）的管控措施落实负责。",
+    "options": [
+      "重大风险",
+      "较大风险",
+      "一般风险",
+      "较小风险"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.1.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 20,
+    "sourceNumber": 19,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-021",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，各车间（区域站）负责人或中心分管负责人对（  ）的管控措施落实负责。",
+    "options": [
+      "重大风险",
+      "较大风险",
+      "一般风险",
+      "较小风险"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.1.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 21,
+    "sourceNumber": 20,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-022",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，班组长应组织班组员工（  ）组织进行一次班组级安全教育培训，对本班组日常生产过程中存在的安全风险进行培训。",
+    "options": [
+      "每月",
+      "每季度",
+      "每半年",
+      "每年"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》9.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 22,
+    "sourceNumber": 21,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-023",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，各车间（区域站）应（  ）组织对员工进行安全风险的安全教育培训，培训应覆盖所有风险管控岗位人员。",
+    "options": [
+      "每月",
+      "每季度",
+      "每半年",
+      "每年"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》9.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 23,
+    "sourceNumber": 22,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-024",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，运营公司每（  ）对安全风险进行一次全面重新辨识。",
+    "options": [
+      "季度",
+      "月",
+      "半年",
+      "年"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》7.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 24,
+    "sourceNumber": 23,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-025",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "运营公司范围内的风险管控工作秉持（  ）原则",
+    "options": [
+      "统一管理",
+      "一岗双责",
+      "分级管控",
+      "关口前移"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 25,
+    "sourceNumber": 24,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-026",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "风险管控措施应符合设施设备运行维护、行车组织管理、客运组织管理、从业人员管理、保护区管理等有关规定，不包括以下（  ）内容",
+    "options": [
+      "培训教育措施",
+      "个体防护措施",
+      "管理措施",
+      "安全奖惩措施"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 26,
+    "sourceNumber": 25,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-027",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "班组长（值班站长）对所管辖的属地或设备设施进行隐患排查，排查范围应覆盖日常生产作业环节，每班应不少于(    )次。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 27,
+    "sourceNumber": 26,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-028",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "各车间、区域站要结合设备设施检修作业、行车作业等，组织专业工程师开展隐患排查工作，每(  )应不少于1次，按照职责分工进行隐患闭环管理。",
+    "options": [
+      "每周",
+      "每月",
+      "每季度",
+      "每年"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 28,
+    "sourceNumber": 27,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-029",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "各中心结合排查计划及专业特点，组织开展隐患排查工作，隐患排查每（  ）不少于1次，每季度需覆盖所属车间、区域站。",
+    "options": [
+      "每周",
+      "每月",
+      "每季度",
+      "每年"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 29,
+    "sourceNumber": 28,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-030",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "隐患分为重大隐患和（  ）隐患两个等级。",
+    "options": [
+      "较大",
+      "一般",
+      "较小",
+      "非重大"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 30,
+    "sourceNumber": 29,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-031",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "下列情形中（  ）不属于一般A类隐患：",
+    "options": [
+      "可能直接造成一般B类事件的",
+      "需通过技术改造项目等措施完成整改，治理难度较大，整改周期较长的",
+      "需两个或以上分公司或集团分（子）公司协调，共同完成整改的",
+      "除上述外，其他能够及时整改消除的隐患"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 31,
+    "sourceNumber": 30,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-032",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "下列情形中（  ）属于一般C类隐患：",
+    "options": [
+      "可能直接造成一般B类事件的",
+      "可能直接造成一般C类事件的",
+      "可能直接造成事件苗头的",
+      "可由分公司独立组织完成整改的"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 32,
+    "sourceNumber": 31,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-033",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "各部门应对照运营公司《运营安全风险数据库》及《岗位安全风险清单》，逐项分析所列风险管控措施弱化、失效、缺失可能产生的隐患，按照（  ）的原则分解到各岗位，编制《岗位安全隐患排查手册》。",
+    "options": [
+      "统一管理",
+      "分级管控",
+      "一岗一册",
+      "专业分类"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 33,
+    "sourceNumber": 32,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-034",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "日常隐患排查内容不包括（  ）。",
+    "options": [
+      "岗位动态排查",
+      "班组（车站）日常排查",
+      "分公司日常排查",
+      "消防专项排查"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 34,
+    "sourceNumber": 33,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-035",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "专项隐患排查内容不包括（  ）。",
+    "options": [
+      "以防汛、防火、防寒等为重点的季节性隐患排查",
+      "重要节假日、重大活动等关键运输节点前",
+      "发生重大故障或运营险性事件",
+      "分公司日常组织开展重大隐患排查工作"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 35,
+    "sourceNumber": 34,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-036",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "车间、区域站负责人为一（  ）隐患整改责任人，组织制定并实施隐患治理方案。整改完成后，由车间、区域站负责人组织验收销号。",
+    "options": [
+      "重大",
+      "一般A类",
+      "一般B类",
+      "一般C类"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》7.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 36,
+    "sourceNumber": 35,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-037",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "一般C类隐患整改完成后，由（  ）组织验收销号",
+    "options": [
+      "车间分管安全负责人",
+      "安全工程师",
+      "班组长",
+      "安全员"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》7.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 37,
+    "sourceNumber": 36,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-038",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "隐患责任治理部门接到排查部门隐患信息后或上级部门及运营公司下发的《隐患整改通知单》应立即组织专业人员现场确认，(  )日内完成原因分析并制定整改措施计划并报排查部门，按照治理要求及治理时限落实整改。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》7.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 38,
+    "sourceNumber": 37,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-039",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "排查发现的重大隐患，应立即报告归口中心、分公司安全管理处及分公司领导处，并于（  ）小时内填写《重大隐患登记审批表》和风险评估报告，书面报送至安全管理处。",
+    "options": [
+      "1",
+      "2",
+      "12",
+      "24"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》7.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 39,
+    "sourceNumber": 38,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-040",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "《重大隐患登记审批表》、风险评估报告、重大隐患治理方案、重大隐患治理情况报告和重大隐患验收报告由安全监察处（综合保卫处）、技术中心及相关部门各存档一份，材料保存时间应不少于（  ）年。",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "10"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》8.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 40,
+    "sourceNumber": 39,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-041",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "各分公司于每月24日下班前将《隐患排查治理台账》（电子版）提交至安全监察处（综合保卫处），各中心、车间（区域站）经（  ）签字确认后按月度存档《隐患排查治理台账》，并及时反馈更新未整改隐患治理进度。",
+    "options": [
+      "中心负责人",
+      "车间（区域站）负责人",
+      "分管安全的负责人",
+      "安全工程师"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》8.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 41,
+    "sourceNumber": 40,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-042",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "对于排查出的重大隐患，治理部门应在（）个工作日内完成专项治理方案编制，报运营公司安全生产委员会审议后组织实施。",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》7.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 42,
+    "sourceNumber": 41,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-043",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "各分公司于每月（  ）下班前将《隐患排查治理台账》（电子版）提交至安全监察处（综合保卫处），各中心、车间（区域站）经分管安全的负责人签字确认后按月度存档《隐患排查治理台账》，并及时反馈更新未整改隐患治理进度。",
+    "options": [
+      "15",
+      "20",
+      "24",
+      "30"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》8.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 43,
+    "sourceNumber": 42,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-044",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "重大隐患整改完成后，由运营公司安全生产委员会组织，（   ）、技术中心及相关部门参与完成隐患治理销项。",
+    "options": [
+      "安全监察处（综合保卫处）",
+      "安全管理处",
+      "安全生产委员会办公室",
+      "上级主管部门"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》7.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 44,
+    "sourceNumber": 43,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-06-045",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "《隐患整改通知单》需经运营公司安全生产委员会成员签发，一式两份，一份（  ）签收存档，另一份安全管理部门存档。",
+    "options": [
+      "排查部门",
+      "治理部门",
+      "责任部门",
+      "归口管理部门"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》9.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 45,
+    "sourceNumber": 44,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-046",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "治理部门完成隐患整改，填写《隐患销项登记单》，一份由（  ）存档，另一份交安全管理部门存档。",
+    "options": [
+      "排查部门",
+      "治理部门",
+      "责任部门",
+      "归口管理部门"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》9.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 46,
+    "sourceNumber": 45,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-047",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "《运营安全隐患排查治理管理办法》规定，隐患排查方式分为日常排查和专项排查，下列不属于日常隐患排查方式的是？",
+    "options": [
+      "岗位动态排查",
+      "班组（车站）排查",
+      "节前隐患排查",
+      "中心排查"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 47,
+    "sourceNumber": 46,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-048",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "列车挤岔属于什么隐患（）",
+    "options": [
+      "一般隐患",
+      "较大隐患",
+      "较小隐患",
+      "重大隐患"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 48,
+    "sourceNumber": 47,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-049",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "隐患排查以《岗位安全隐患排查手册》为基础，结合组织架构和作业实际等，明确隐患排查内容、方法、（  ）等要求。",
+    "options": [
+      "责任人",
+      "周期",
+      "范围",
+      "时限"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 49,
+    "sourceNumber": 48,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-06-050",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "运营单位应按年度对风险分级管控和隐患排查治理情况进行分析，总结工作开展情况，研判风险演变趋势和隐患升级苗头等问题。运营单位应在每年（  ）前将上一年度分析情况书面报送城市轨道交通运营主管部门。",
+    "options": [
+      "1月底",
+      "2月底",
+      "3月底",
+      "年底"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：《城市轨道交通运营安全风险分级管控和隐患排查治理管理办法》交运规〔2024〕10号第二十二条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 50,
+    "sourceNumber": 49,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-06-051",
+    "bankId": "operations",
+    "type": "single",
+    "category": "双预防",
+    "question": "不符合城市轨道交通重大隐患判定标准的是（  ）",
+    "options": [
+      "使用报废、擅自改装、拼装、检验检测不合格（含未在有效期内）以及其他不符合国家规定的车辆装备、设施设备等进行生产作业活动的；",
+      "运营区域发布预警，不具备安全运营条件，未执行上级部门停运指令或应急预案要求，仍擅自安排运输作业的；",
+      "可能导致发生运营险性事件的",
+      "所属客运车辆违法承运或夹带危险物品的"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《道路运输企业和城市客运企业安全生产重大事故隐患判定标准（试行）》第七条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 51,
+    "sourceNumber": 50,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-06-052",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "遇到以下情况之一的，需对特定领域、特定环节、特定对象开展风险专项辨识、评估：",
+    "options": [
+      "运营环境发生较大变化；",
+      "组织架构进行较大调整；",
+      "发生运营险性事件或事故（事件）；",
+      "新设备、新技术、新工艺投用；",
+      "车辆、信号等关键系统更新，以及车站、线路等改造后投入使用；",
+      "法律法规、规章制度发生较大变化；",
+      "需开展风险专项辨识、评估的其他情况。"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》7.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 52,
+    "sourceNumber": 51,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDEFG"
+  },
+  {
+    "id": "ops-06-053",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "《岗位安全隐患排查手册》中隐患（  ）、（   ）、（  ）等内容应在相关专业规章、规程中明确。",
+    "options": [
+      "排查内容",
+      "排查方法",
+      "排查周期",
+      "排查岗位"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 53,
+    "sourceNumber": 52,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-06-054",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "风险等级管控的基本程序是什么？",
+    "options": [
+      "排查风险点",
+      "风险辨识",
+      "风险评估和定级",
+      "制定风险管控措施",
+      "效果验证和更新"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表来源／依据：略",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 54,
+    "sourceNumber": 53,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-06-055",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "隐患排查形式与方法有？",
+    "options": [
+      "部门抽查",
+      "随机访查",
+      "日常排查",
+      "专项排查"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 55,
+    "sourceNumber": 54,
+    "sourceType": "多选",
+    "originalAnswer": "CD"
+  },
+  {
+    "id": "ops-06-056",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "安全风险辨识应坚持（）、（）、（）的原则",
+    "options": [
+      "横向到边",
+      "竖向到底",
+      "不留死角",
+      "分级管控"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.9",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 56,
+    "sourceNumber": 55,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-06-057",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "风险管控措施应符合设施设备运行维护、行车组织管理、客运组织管理、从业人员管理、保护区管理等有关规定，至少包括以下（ ）内容",
+    "options": [
+      "培训教育措施",
+      "个体防护措施",
+      "工程技术措施",
+      "应急处置措施",
+      "管理措施"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 57,
+    "sourceNumber": 56,
+    "sourceType": "多选",
+    "originalAnswer": "ABCDE"
+  },
+  {
+    "id": "ops-06-058",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "符合下列情形之一的属于一般C类隐患？",
+    "options": [
+      "可能直接造成事件苗头的",
+      "除上述外，其他能够及时整改消除的隐患",
+      "可有分公司独立组织完成整改的",
+      "可能直接造成一般C类事件或事件苗头的"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 58,
+    "sourceNumber": 57,
+    "sourceType": "多选",
+    "originalAnswer": "AB"
+  },
+  {
+    "id": "ops-06-059",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "各部门应对照运营公司（    ）及（    ），逐项分析所列风险管控措施弱化、失效、缺失可能产生的隐患，",
+    "options": [
+      "运营安全风险数据库",
+      "岗位安全风险清单",
+      "专项应急预案",
+      "现场处置方案"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 59,
+    "sourceNumber": 58,
+    "sourceType": "多选",
+    "originalAnswer": "AB"
+  },
+  {
+    "id": "ops-06-060",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "隐患排查治理是对城市轨道交通运营过程中（）。",
+    "options": [
+      "人的不安全行为",
+      "物的不安全状态",
+      "环境的不安全因素",
+      "管理上的缺陷"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 60,
+    "sourceNumber": 59,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-06-061",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "符合一般B类隐患条件的是？",
+    "options": [
+      "可能直接造成一般B类事件的",
+      "可能直接造成一般C类事件或事件苗头的",
+      "可由分公司独立组织完成整改的",
+      "需通过技术改造项目等措施完成整改，治理难度较大，整改周期较长的"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 61,
+    "sourceNumber": 60,
+    "sourceType": "多选",
+    "originalAnswer": "BC"
+  },
+  {
+    "id": "ops-06-062",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "隐患举报内容包括（      ）等",
+    "options": [
+      "发现人姓名及联系电话",
+      "隐患地点",
+      "现状",
+      "及可能带来的危害"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》10.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 62,
+    "sourceNumber": 61,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-06-063",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "根据分公司《运营安全风险辨识、评估及分级管控管理办法》相关规定，下列关于后果严重程度等级判断正确的是？",
+    "options": [
+      "后果为造成人员死亡的严重程度应定义为特别严重",
+      "后果为造成3 人以下重伤的严重程度应定义为严重",
+      "后果为电梯轿厢滞留人员1小时以上 1.5小时以下的严重程度应定义为较严重。",
+      "后果为晚点、出入口晚开 20 分钟以下的后果严重程度等级为:不严重。"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 63,
+    "sourceNumber": 62,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-06-064",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "运营公司从人员伤亡、经济损失、行车晚点、环境污染、社会影响等方面，将后果严重程度等级分为？",
+    "options": [
+      "特别严重",
+      "严重",
+      "较严重",
+      "不严重"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 64,
+    "sourceNumber": 63,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-06-065",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "运营公司经过评估的风险等级从高到低划分为（ ）四个等级。",
+    "options": [
+      "特别重大",
+      "重大",
+      "较大",
+      "一般",
+      "较小"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 65,
+    "sourceNumber": 64,
+    "sourceType": "多选",
+    "originalAnswer": "BCDE"
+  },
+  {
+    "id": "ops-06-066",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "岗位动态排查：各岗位结合班制安排和作业实际进行隐患动态排查，于（    ）、（    ）开展隐患排查工作，及时排查现场设备设施、工作岗位场所存在的隐患。",
+    "options": [
+      "排查内容",
+      "排查方法",
+      "日常巡查",
+      "周期检修"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 66,
+    "sourceNumber": 65,
+    "sourceType": "多选",
+    "originalAnswer": "CD"
+  },
+  {
+    "id": "ops-06-067",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "班组日常排查：班组组织开展的经常性隐患排查，根据(    )和(    )的特点，班组长对所管辖的属地或设备设施进行隐患排查",
+    "options": [
+      "管理要求",
+      "工作岗位",
+      "设备设施",
+      "作业环境"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 67,
+    "sourceNumber": 66,
+    "sourceType": "多选",
+    "originalAnswer": "AC"
+  },
+  {
+    "id": "ops-06-068",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "重大隐患是指可能直接导致安全生产事故或列车脱轨、（ ）。",
+    "options": [
+      "列车冲突",
+      "列车撞击",
+      "列车挤岔",
+      "火灾"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 68,
+    "sourceNumber": 67,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-06-069",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "根据《运营安全隐患排查治理管理办法》规定，遇到以下情况的，各中心、车间、区域站应开展专项隐患排查。",
+    "options": [
+      "关键设施设备更新改造",
+      "发生重大故障或运营险性事件",
+      "检修作业进行期间",
+      "重要节假日后"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 69,
+    "sourceNumber": 68,
+    "sourceType": "多选",
+    "originalAnswer": "AB"
+  },
+  {
+    "id": "ops-06-070",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "根据《运营安全隐患排查治理管理办法》规定，隐患可分为？",
+    "options": [
+      "特别重大隐患",
+      "重大隐患",
+      "较大隐患",
+      "一般隐患",
+      "较小隐患"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 70,
+    "sourceNumber": 69,
+    "sourceType": "多选",
+    "originalAnswer": "BD"
+  },
+  {
+    "id": "ops-06-071",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》相关规定，小明作为分公司的一名一线员工，他在日常工作中应当承担的职责有哪些？",
+    "options": [
+      "根据各岗位安全生产实际，开展岗位范围内的安全风险辨识、评估及管控工作",
+      "负责落实本岗位相关的安全风险管控措施",
+      "对本岗位存在的安全风险进行交底学习，对管控措施要熟知并进行落实",
+      "开展班组管理范围内的安全风险辨识、评估及管控工作，做好更新完善工作。"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：略",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 71,
+    "sourceNumber": 70,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-06-072",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "因多重风险管控措施失效、弱化、缺失而导致事故事件的，所涉及的专业、部门均须将其纳入本专业、部门的风险评估判断依据。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 72,
+    "sourceNumber": 71,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-073",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "各中心、车间（区域站）、班组（车站）在办公室、 会议室、走廊等区域设置公告栏，对所管辖范围内存在的安全风险 进行公告，每季度进行更新。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》9.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 73,
+    "sourceNumber": 72,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-074",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "委外单位归口管理部门应当对委外单位的隐患排查治理工作统一协调、管理。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》10.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 74,
+    "sourceNumber": 73,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-075",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "风险评估是将风险点引发的事件后果的严重程度进行综合评价和预测划分风险等级。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》3.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 75,
+    "sourceNumber": 74,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-076",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "“隐患排查治理”，是对合肥轨道交通运营过程中人的不安全行为、物的不安全状态。环境的不安全因素、管理上的缺陷导致的风险管控措施弱化、失效、缺失等,进行排查,评估、整改、消除的闭环管理活动。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 76,
+    "sourceNumber": 75,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-077",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "可能直接导致安全生产事故或列车 脱轨、列车冲突、列车撞击、列车挤岔、火灾、桥隧结构坍塌、车站和轨行区淹水倒灌、大面积停电、客流踩踏等运营险性事件发生的隐患，我们称为一般隐患。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 77,
+    "sourceNumber": 76,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-078",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "重大隐患是指除一般隐患外，其他可能影响运营安全的隐患。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 78,
+    "sourceNumber": 77,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-079",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "风险评估和直接判定结果不同时，依照直接判定结果认定",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.9",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 79,
+    "sourceNumber": 78,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-080",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "可能直接造成一般B类事件或需两个或以上分公司或集团分（子）公司协调，共同完成整改的隐患，分公司将其划分为一般A类隐患。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 80,
+    "sourceNumber": 79,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-081",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "风险辨识是对风险点的识别，是发现、确认和描述风险的过程，实质是找出生产运营过程中存在的人的不安全行为、物的不安全状态、运行环境中存在的危害因素及管理缺陷等。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》3.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 81,
+    "sourceNumber": 80,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-082",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "发生的可能性（L）指在管控措施弱化、失效、缺失的状态下，发生风险事件对运营安全可能造成的最终影响。综合参考类似事件后果损失，应从人员伤亡、经济损失、行车晚点、环境污染、社会影响等方面的后果严重程度开展评分.",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 82,
+    "sourceNumber": 81,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-083",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "设施监测养护类风险包含桥梁、隧道、车辆、供电、通信、信号、机电等方面的风险",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 83,
+    "sourceNumber": 82,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-084",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "在隐患治理过程中，安全监察处负责保障隐患排查治理所需的资金。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》4.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 84,
+    "sourceNumber": 83,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-085",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "各中心、车间、区域站每月 24 日下班前打印当月《隐患排查治理台账》",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》8.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 85,
+    "sourceNumber": 84,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-086",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "运营公司的风险评估参考《危险化学品重大危险源监督管理暂行规定》执行，同时结合安全生产实际，对特殊条件下的重大风险亦可采用直接判定。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 86,
+    "sourceNumber": 85,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-087",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "《重大隐患登记审批表》、风险评估报告、重大隐患治理方案、重大隐患治理情况报告和重大隐患验收报告由安全监察处（综合保卫处）、技术中心及相关部门各存档一份，材料保存时间应不少于3年。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》8.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 87,
+    "sourceNumber": 86,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-088",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "由班组长组织班组员工每季度组织进行一次班组级安全教育培训，对本班组日常生产过程中存在的安全风险进行培训，在各类作业的班前交底中，应对作业过程中存在的风险点、管控措施、应急措施进行告知。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》9.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 88,
+    "sourceNumber": 87,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-089",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，某中心因发生安全生产事故，造成了财产损失，且到现在发生事故的条件依然存在的，应直接认定为重大风险。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》6.8",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 89,
+    "sourceNumber": 88,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-090",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "根据《运营安全风险辨识、评估及分级管控管理办法》规定，发生的可能性以轨道交通行业已经发生过的设施设备故障、人员操作失误以及事件、事故为基础，综合考虑员工业务素质、设备设施使用状态与稳定性等，共分为高、中、低、极低四个级别",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》附录B",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 90,
+    "sourceNumber": 89,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-06-091",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "双预防",
+    "question": "举报核实工作遵循“合法举报、分级负责”的原则，支持匿名举报。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》10.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 91,
+    "sourceNumber": 90,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-06-092",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "隐患排查治理落实“五到位”包含哪些？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》4.1.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 92,
+    "sourceNumber": 91,
+    "sourceType": "简答",
+    "originalAnswer": "整改措施、责任、资金、时限和预案",
+    "referenceAnswer": "整改措施、责任、资金、时限和预案"
+  },
+  {
+    "id": "ops-06-093",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "风险按照业务板块，分为哪几类？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 93,
+    "sourceNumber": 92,
+    "sourceType": "简答",
+    "originalAnswer": "风险按照业务板块，分为设施监测养护、设备运行维修、行车组织、客运组织、运行环境和其他风险等",
+    "referenceAnswer": "风险按照业务板块，分为设施监测养护、设备运行维修、行车组织、客运组织、运行环境和其他风险等"
+  },
+  {
+    "id": "ops-06-094",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "遇到哪些情况，需对特定领域、特定环节、特定对象开展风险专项辨识、评估？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》7.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 94,
+    "sourceNumber": 93,
+    "sourceType": "简答",
+    "originalAnswer": "A.运营环境发生较大变化；\nB.组织架构进行较大调整；\nC.发生运营险性事件或事故（事件）；\nD.新设备、新技术、新工艺投用；\nE.车辆、信号等关键系统更新，以及车站、线路等改造后投入使用；\nF.法律法规、规章制度发生较大变化；\nG.需开展风险专项辨识、评估的其他情况。",
+    "referenceAnswer": "A.运营环境发生较大变化；\nB.组织架构进行较大调整；\nC.发生运营险性事件或事故（事件）；\nD.新设备、新技术、新工艺投用；\nE.车辆、信号等关键系统更新，以及车站、线路等改造后投入使用；\nF.法律法规、规章制度发生较大变化；\nG.需开展风险专项辨识、评估的其他情况。"
+  },
+  {
+    "id": "ops-06-095",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "风险管控措施应符合设施设备运行维护、行车组织管理、客运组织管理、从业人员管理、保护区管理等有关规定，至少包括哪五个方面内容？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全风险辨识、评估及分级管控管理办法》8.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 95,
+    "sourceNumber": 94,
+    "sourceType": "简答",
+    "originalAnswer": "A.培训教育措施；\nB.个体防护措施；\nC.工程技术措施；\nD.应急处置措施；\nE.管理措施",
+    "referenceAnswer": "A.培训教育措施；\nB.个体防护措施；\nC.工程技术措施；\nD.应急处置措施；\nE.管理措施"
+  },
+  {
+    "id": "ops-06-096",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "城市轨道交通重大隐患判定标准有哪些（答出4点即可）",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 96,
+    "sourceNumber": 95,
+    "sourceType": "简答",
+    "originalAnswer": "a)使用报废、擅自改装、拼装、检验检测不合格（含未在有效期内）以及其他不符合国家规定的车辆装备、设施设备等进行生产作业活动的；\nb)运营区域发布预警，不具备安全运营条件，未执行上级部门停运指令或应急预案要求，仍擅自安排运输作业的；\nc)未按规定及时组织大客流疏散或列车重大故障清客的；\nd)未按规定及时整治桥隧、车站、轨道主体结构重大病害和损伤的；\ne)可能导致发生运营险性事件的；\nf)按法律法规和规章规定，其他应当判定为重大事故隐患的。",
+    "referenceAnswer": "a)使用报废、擅自改装、拼装、检验检测不合格（含未在有效期内）以及其他不符合国家规定的车辆装备、设施设备等进行生产作业活动的；\nb)运营区域发布预警，不具备安全运营条件，未执行上级部门停运指令或应急预案要求，仍擅自安排运输作业的；\nc)未按规定及时组织大客流疏散或列车重大故障清客的；\nd)未按规定及时整治桥隧、车站、轨道主体结构重大病害和损伤的；\ne)可能导致发生运营险性事件的；\nf)按法律法规和规章规定，其他应当判定为重大事故隐患的。"
+  },
+  {
+    "id": "ops-06-097",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "简述一般A类隐患的构成条件",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 97,
+    "sourceNumber": 96,
+    "sourceType": "简答",
+    "originalAnswer": "a)可能直接造成一般B类事件的；\nb)需通过技术改造项目等措施完成整改，治理难度较大，整改周期较长的；\nc)需两个或以上分公司或集团分（子）公司协调，共同完成整改的。",
+    "referenceAnswer": "a)可能直接造成一般B类事件的；\nb)需通过技术改造项目等措施完成整改，治理难度较大，整改周期较长的；\nc)需两个或以上分公司或集团分（子）公司协调，共同完成整改的。"
+  },
+  {
+    "id": "ops-06-098",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "简述一般B类隐患的构成条件",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 98,
+    "sourceNumber": 97,
+    "sourceType": "简答",
+    "originalAnswer": "a)可能直接造成一般C类事件的；\nb)可由分公司独立组织完成整改的。",
+    "referenceAnswer": "a)可能直接造成一般C类事件的；\nb)可由分公司独立组织完成整改的。"
+  },
+  {
+    "id": "ops-06-099",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "简述一般C类隐患的构成条件",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》5.7",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 99,
+    "sourceNumber": 98,
+    "sourceType": "简答",
+    "originalAnswer": "a)可能直接造成事件苗头的；\nb)除上述外，其他能够及时整改消除的隐患。",
+    "referenceAnswer": "a)可能直接造成事件苗头的；\nb)除上述外，其他能够及时整改消除的隐患。"
+  },
+  {
+    "id": "ops-06-100",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "专项隐患排查是在一定范围、领域组织开展的针对特定隐患的排查，可与专项检查、安全评估、季节性和关键时期检查等工作结合开展。遇到哪些，各分公司及相关部门需组织开展专项排查？（答出4点即可）",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营安全隐患排查治理管理办法》6.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 100,
+    "sourceNumber": 99,
+    "sourceType": "简答",
+    "originalAnswer": "a)关键设施设备更新改造；\nb)以防汛、防火、防寒等为重点的季节性隐患排查；\nc)重要节假日、重大活动等关键运输节点前；\nd)重点施工作业进行期间；\ne)发生重大故障或运营险性事件；\nf)根据政府或有关管理部门安全部署；\ng)需开展专项排查的其他情况。",
+    "referenceAnswer": "a)关键设施设备更新改造；\nb)以防汛、防火、防寒等为重点的季节性隐患排查；\nc)重要节假日、重大活动等关键运输节点前；\nd)重点施工作业进行期间；\ne)发生重大故障或运营险性事件；\nf)根据政府或有关管理部门安全部署；\ng)需开展专项排查的其他情况。"
+  },
+  {
+    "id": "ops-06-101",
+    "bankId": "operations",
+    "type": "short",
+    "category": "双预防",
+    "question": "简述本专业所涉及的重较大风险及管控措施（一条风险即可）",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：依照最新版《运营安全风险数据库》\n原表参考答案为“略”，请结合岗位资料自行复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "双预防",
+    "sourceRow": 101,
+    "sourceNumber": 100,
+    "sourceType": "简答",
+    "originalAnswer": "略",
+    "referenceAnswer": "略"
+  },
+  {
+    "id": "ops-07-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "有限空间",
+    "question": "《有限空间作业审批单》的有效时间为（ ）。",
+    "options": [
+      "12h",
+      "24h",
+      "48h",
+      "7天"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-07-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "有限空间",
+    "question": "每个有限空间作业现场至少安排（ ）名专人作为监护人，在风险较大的有限空间作业时，应增设监护人员。",
+    "options": [
+      "1人",
+      "2人",
+      "3人",
+      "4人"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.3.5",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-07-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "有限空间",
+    "question": "有限空间内气体检测的时间不得早于作业开始前（）分钟。",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.5.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-07-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "有限空间",
+    "question": "作业中断超过（），作业人员再次进入有限空间作业前，应当重新通风、检测合格后方可进入。",
+    "options": [
+      "15分钟",
+      "30分钟",
+      "45分钟",
+      "1小时"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.5.9",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-07-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "有限空间",
+    "question": "未经通风和检测合格，任何人员不得进入有限空间作业，其中氧气含量、硫化氢最高浓度、一氧化碳最高浓度、甲烷含量分别为（）。",
+    "options": [
+      "应在19.5%-23%之间、不超过20mg/m³、不超过10mg/m³、不超过5.9%",
+      "应在19.5%-23%之间、不超过10mg/m³、不超过10mg/m³、不超过4.9%",
+      "应在29.5%-33%之间、不超过20mg/m³、不超过20mg/m³、不超过4.9%",
+      "应在29.5%-33%之间、不超过10mg/m³、不超过20mg/m³、不超过5.9%"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.5.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-07-007",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "有限空间",
+    "question": "以下哪些属于有限空间作业需配置安全防护用品（ ）",
+    "options": [
+      "便携式复合气体检测报警仪",
+      "防毒过滤面具",
+      "安全带",
+      "荧光衣",
+      "安全帽",
+      "绝缘鞋"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.4.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "多选",
+    "originalAnswer": "ABCE"
+  },
+  {
+    "id": "ops-07-008",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "有限空间",
+    "question": "以下地点属于有限空间的是（）",
+    "options": [
+      "地坑",
+      "消防水池",
+      "电梯井",
+      "化粪池",
+      "隧道"
+    ],
+    "answer": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "多选",
+    "originalAnswer": "ABDE"
+  },
+  {
+    "id": "ops-07-009",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "有限空间",
+    "question": "安全防范措施应包括作业前安全准备、作业过程中安全防护措施。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》附 录 B",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-07-010",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "有限空间",
+    "question": "作业人和监护人须在进入前应填写《有限空间作业安全检查确认表》，了解工作内容、气体检测情况与工作有关的危害和预防措施。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.3.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-07-011",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "有限空间",
+    "question": "若工作任务发生改变、工作环境和条件发生变化、产生限制救援发挥作用的条件，可与管理部门沟通确认后继续作业。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.3.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-07-012",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "有限空间",
+    "question": "进入有限空间，作业人员与监护人员应事先规定明确的联络信号。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.5.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-07-013",
+    "bankId": "operations",
+    "type": "short",
+    "category": "有限空间",
+    "question": "写出有限空间的定义。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "简答",
+    "originalAnswer": "有限空间，是指封闭或者部分封闭，与外界相对隔离，出入口较为狭窄，作业人员不能长时间在内工作，自然通风不良，易造成有毒有害、易燃易爆物质积聚或者氧含量不足的空间。",
+    "referenceAnswer": "有限空间，是指封闭或者部分封闭，与外界相对隔离，出入口较为狭窄，作业人员不能长时间在内工作，自然通风不良，易造成有毒有害、易燃易爆物质积聚或者氧含量不足的空间。"
+  },
+  {
+    "id": "ops-07-014",
+    "bankId": "operations",
+    "type": "short",
+    "category": "有限空间",
+    "question": "写出有限空间作业应当严格遵守的原则。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》5.2.5.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "简答",
+    "originalAnswer": "先通风、再检测、后作业。",
+    "referenceAnswer": "先通风、再检测、后作业。"
+  },
+  {
+    "id": "ops-07-015",
+    "bankId": "operations",
+    "type": "short",
+    "category": "有限空间",
+    "question": "编制的有限空间安全作业方案至少包括哪八项内容？",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《有限空间作业安全管理办法》附 录 B",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "有限空间",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "简答",
+    "originalAnswer": "有限空间安全作业方案至少应包括：作业项目名称、作业单位信息、作业项目概况、作业流程、作业期限、危险有害因素分析、安全防范措施、现场处置方案。",
+    "referenceAnswer": "有限空间安全作业方案至少应包括：作业项目名称、作业单位信息、作业项目概况、作业流程、作业期限、危险有害因素分析、安全防范措施、现场处置方案。"
+  },
+  {
+    "id": "ops-08-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "轨道交通保护区包含：在建线路和（ ）线路安全保护区及规划线路规划控制区",
+    "options": [
+      "非在建",
+      "设计",
+      "运营",
+      "既有"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-08-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "在建线路和运营线路按照《条例》规定的范围划定严格保护区和（ ）保护区",
+    "options": [
+      "非严格",
+      "普通",
+      "影响",
+      "安全"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-08-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "严格保护区包括：地下车站、地下通道、隧道结构外边线外侧（  ）m 以内",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "50"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条(一)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-08-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "严格保护区包括：车站出入口、通风亭、变电站、冷却塔等建筑物和 构筑物、设备外边线外侧以及控制中心、车辆基地建筑结构 外边线外侧（ ）m 以内",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "50"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条(一)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-08-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "严格保护区包括：城市轨道交通高压电缆沟、架空线等供电设施以及室外给排水设施包括排水检查井、给水水表井、化粪池、消 火栓、水泵接合器、给排水管道及阀门等水平投影外侧（ ）m以内 。",
+    "options": [
+      "3",
+      "5",
+      "10",
+      "20"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条(一)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-08-007",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "影响保护区包括：地下车站、地下通道、隧道结构外边线外侧(  )m 以内",
+    "options": [
+      "5",
+      "10",
+      "20",
+      "50"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条(二)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-08-008",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "影响保护区包括：高架车站及线路工程水平投影线、地面车站以及线 路路堤或者路堑边线外侧(  )m以内",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "50"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条(二)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-08-009",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "影响保护区包括：过河、湖隧道结构外边线外侧(  )m以内",
+    "options": [
+      "30",
+      "50",
+      "100",
+      "120"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二条(二)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-08-010",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "涉外电源项目实施过程中由（  )负责对外电源线路的保护进行监护。项目施工前申请人应组织相 关单位探明管线位置、走向及埋深等信息并设置警戒标识。",
+    "options": [
+      "地保办",
+      "运营公司",
+      "建设公司",
+      "总工办"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第二十七条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-08-011",
+    "bankId": "operations",
+    "type": "single",
+    "category": "保护区管理",
+    "question": "运营公司不负责运营线路（  ）的日常巡查",
+    "options": [
+      "正线区间安全保护区",
+      "场段",
+      "附属设施设备",
+      "外电源线路"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第八条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-08-012",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "保护区管理",
+    "question": "地铁保护区安全防护方案应该包括哪些？",
+    "options": [
+      "设计方案",
+      "施工方案",
+      "监测方案",
+      "验收方案",
+      "应急预案"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第四条(二)",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "多选",
+    "originalAnswer": "ABCE"
+  },
+  {
+    "id": "ops-08-013",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "保护区管理",
+    "question": "安全保护区巡查内容包括哪些？",
+    "options": [
+      "新建、改建、扩建或者拆除建(构)筑物。",
+      "挖掘、爆破、地基加固、打井、降水、勘察、打桩、基坑施工、桩基础施工、钻探、灌浆、喷锚、地下顶进作业。",
+      "敷设排污、排水、燃气、电力等各类管线，搭架管线、吊装等架空作业，以及其他需要跨越或者横穿城市轨道 线路设施设备的作业。",
+      "取土、采石、采砂、疏浚河道，以及取用、回灌地下水的。",
+      "大面积增加或者减少建筑物、构筑物载荷的活动。",
+      "电焊、气焊和使用明火等具有火灾危险作业。",
+      "其他可能危害城市轨道交通运营安全的活动。"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第十一条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "多选",
+    "originalAnswer": "ABCEFG"
+  },
+  {
+    "id": "ops-08-014",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "保护区管理",
+    "question": "运营公司按照（ ）次/天，开展运营线路场段、车站、 出入口、附属设施日常巡查；按照（ ）次/周，开展外电源线路的日常巡查。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "7"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第十四条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "多选",
+    "originalAnswer": "AB"
+  },
+  {
+    "id": "ops-08-015",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "保护区管理",
+    "question": "当地铁保护区发生侵限及受损事件后，信息报告内容应包括哪些？",
+    "options": [
+      "事发时间地点",
+      "事件描述、",
+      "事件初判级别",
+      "影响范围",
+      "治理措施"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第三十五条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-08-016",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "保护区管理",
+    "question": "运营公司负责运营线路（  ）的日常巡查",
+    "options": [
+      "正线区间安全保护区",
+      "场段",
+      "车站",
+      "出入口",
+      "附属设施设备",
+      "外电源线路"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第八条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 16,
+    "sourceNumber": 15,
+    "sourceType": "多选",
+    "originalAnswer": "BCDEF"
+  },
+  {
+    "id": "ops-08-017",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "保护区管理",
+    "question": "轨道交通保护区管理涉及轨道交通安全保护区管理办公室、运营公司、建设公司、 总工办等部门，按照“集中受理，统一协调，归口管理”的原\n则开展工作。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第六条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 17,
+    "sourceNumber": 16,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-08-018",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "保护区管理",
+    "question": "运营公司是轨道交通保护区的归口管理部门",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第七条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 18,
+    "sourceNumber": 17,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-08-019",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "保护区管理",
+    "question": "运营公司负责牵头组织安全保护区外部作业项目涉轨安全防 护交底",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第七条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 19,
+    "sourceNumber": 18,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-08-020",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "保护区管理",
+    "question": "运营公司参与运营线路安全保护区外部作业项目联合审查， 必要时组织运营线路监测单位协助核查",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第八条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 20,
+    "sourceNumber": 19,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-08-021",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "保护区管理",
+    "question": "运营公司按照1次/天，开展运营线路场段、车站、 出入口、附属设施日常巡查；按照1次/周，开展外电源线路的日常巡查。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：合肥市轨道交通集团有限公司 保护区管理办法(试行)》第十四条",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "保护区管理",
+    "sourceRow": 21,
+    "sourceNumber": 20,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-09-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "故障分析定责",
+    "question": "（7）依据《中华人民共和国安全生产法》，对未依法取得批准或者验收合格的单位擅自从事有关活动的，负责行政审批的部门发现或者接到举报后应当立即（  ），并依法予以处理。",
+    "options": [
+      "予以停产整顿",
+      "予以取缔",
+      "予以责令整改",
+      "予以通报批评"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》4.1.2.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "答案：B"
+  },
+  {
+    "id": "ops-09-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "故障分析定责",
+    "question": "合肥火车站发生联锁故障，造成最大晚点10分钟，本次事件由（）调查、分析、定责。",
+    "options": [
+      "安全监察处",
+      "线网指挥中心",
+      "安全管理处",
+      "生产调度中心"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》4.1.2.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-09-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "故障分析定责",
+    "question": "发生晚点事件后，相关设备所属部门及使用部门应于故障发生后（）个工作日内形成《运营故障技术分析报告》，并按故障等级提交相应故障调查部门。",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.2.2&5.2.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-09-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "故障分析定责",
+    "question": "故障调查结束后，针对故障处理中存在的问题，相关部门须于定责报告出具后（）日内制定具体的整改措施，并及时进行整改。",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.2.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-09-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "故障分析定责",
+    "question": "一个故障同时造成责任清客（掉线）、2（含）至 5（不含）分钟晚点、5分钟及以上延误事件、5（含）至15（不含）分钟晚点，定责时仅对（）进行定责。",
+    "options": [
+      "责任清客（掉线）",
+      "2（含）至 5（不含）分钟晚点",
+      "5分钟及以上延误事件",
+      "5（含）至15（不含）分钟晚点"
+    ],
+    "answer": [
+      3
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.3.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "D"
+  },
+  {
+    "id": "ops-09-007",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "故障分析定责",
+    "question": "生产调度中心负责对本分公司（）进行调查、分析、定责。",
+    "options": [
+      "5分钟及以上延误事件",
+      "掉线",
+      "责任清客",
+      "未构成晚点的指标故障"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》4.2.1.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "多选",
+    "originalAnswer": "ABCD"
+  },
+  {
+    "id": "ops-09-008",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "故障分析定责",
+    "question": "下列对于责任等级划分说法错误的是（）。",
+    "options": [
+      "负有事件影响70%责任为主要责任",
+      "三个部门对某事件负有同等责任，则责任占比各为33%",
+      "责任占比50%以下为次要责任",
+      "负有事件影响10%-40%责任为一定责任"
+    ],
+    "answer": [
+      2,
+      3
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "多选",
+    "originalAnswer": "CD"
+  },
+  {
+    "id": "ops-09-009",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "故障分析定责",
+    "question": "下列关于故障分析定责说法正确的是（）。",
+    "options": [
+      "多个相互独立事件导致列车晚点的，按照不同事件延误时间所占比例分担晚点责任",
+      "设备使用部门在规定的时间内、按标准操作流程进行操作，设备使用部门不承担晚点责任",
+      "设备出现故障，在相关的规章中未对设备使用部门给出明确故障处理指引或未进行培训的，设备所属部门负全责",
+      "偶发性故障设备所属部门不需要承担晚点责任"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.3.4",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-09-010",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "故障分析定责",
+    "question": "列车运行图(时刻表)执行过程中，列车在任意车站的延误时间大于或等于5分钟属于5分钟及以上延误事件。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》3.3",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 10,
+    "sourceNumber": 9,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-09-011",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "故障分析定责",
+    "question": "安全管理处负责对本分公司15分钟（不含）以下晚点的运营故障及5分钟及以上延误事件，进行调查、分析、定责。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》4.2.2.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 11,
+    "sourceNumber": 10,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-09-012",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "故障分析定责",
+    "question": "故障调查结束后，针对故障处理中存在的问题，相关部门须于定责报告出具后3个工作日内制定具体的整改措施，并及时进行整改。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.2.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 12,
+    "sourceNumber": 11,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-09-013",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "故障分析定责",
+    "question": "《运营故障分析与定责管理办法》规定，故障调查结束后，针对故障处理中存在的问题，整改闭环材料原则上要在1个月内完成。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.2.6",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 13,
+    "sourceNumber": 12,
+    "sourceType": "判断",
+    "originalAnswer": "错误"
+  },
+  {
+    "id": "ops-09-014",
+    "bankId": "operations",
+    "type": "boolean",
+    "category": "故障分析定责",
+    "question": "列车救援产生的清客计为责任清客。",
+    "options": [
+      "正确",
+      "错误"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》3.4.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 14,
+    "sourceNumber": 13,
+    "sourceType": "判断",
+    "originalAnswer": "正确"
+  },
+  {
+    "id": "ops-09-015",
+    "bankId": "operations",
+    "type": "short",
+    "category": "故障分析定责",
+    "question": "写出《运营故障分析与定责管理办法》中的责任等级划分原则。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.3.1",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 15,
+    "sourceNumber": 14,
+    "sourceType": "简答",
+    "originalAnswer": "1、全部责任：负有事件影响 100%责任；\n2、主要责任：负有事件影响 60%-90%责任；\n3、同等责任：各方均负有事件影响相同成分的责任；\n4、次要责任：负有事件影响 30%-40%责任；\n5、一定责任：负有事件影响 10%-20%责任。",
+    "referenceAnswer": "1、全部责任：负有事件影响 100%责任；\n2、主要责任：负有事件影响 60%-90%责任；\n3、同等责任：各方均负有事件影响相同成分的责任；\n4、次要责任：负有事件影响 30%-40%责任；\n5、一定责任：负有事件影响 10%-20%责任。"
+  },
+  {
+    "id": "ops-09-016",
+    "bankId": "operations",
+    "type": "short",
+    "category": "故障分析定责",
+    "question": "若故障造成多种指标同时出现，由低到高写出定责原则。",
+    "options": [],
+    "answer": [],
+    "explanation": "原表来源／依据：《运营故障分析与定责管理办法》5.3.2",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "故障分析定责",
+    "sourceRow": 16,
+    "sourceNumber": 15,
+    "sourceType": "简答",
+    "originalAnswer": "责任清客（掉线）、2（含）至5（不含）分钟晚点、5分钟及以上延误事件、5（含）至15（不含）分钟晚点、15（含）分钟以上晚点。",
+    "referenceAnswer": "责任清客（掉线）、2（含）至5（不含）分钟晚点、5分钟及以上延误事件、5（含）至15（不含）分钟晚点、15（含）分钟以上晚点。"
+  },
+  {
+    "id": "ops-10-002",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全教育培训",
+    "question": "各项安全教育培训记录应至少保存 （  ）年。",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 2,
+    "sourceNumber": 1,
+    "sourceType": "单选",
+    "originalAnswer": "C"
+  },
+  {
+    "id": "ops-10-003",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全教育培训",
+    "question": "新入职员工、实习人员、劳务派遣员工入司三级安全教育总培训时间不得少于（  ）学时。",
+    "options": [
+      "18",
+      "24",
+      "32",
+      "48"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 3,
+    "sourceNumber": 2,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-10-004",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全教育培训",
+    "question": "运营公司及各分公司主要负责人、安全生产管理人员每年安全再教育培训不得少于12学，各处室、中心普通员工每年安全教育培训不得少于(    )学时。",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 4,
+    "sourceNumber": 3,
+    "sourceType": "单选",
+    "originalAnswer": "B"
+  },
+  {
+    "id": "ops-10-005",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全教育培训",
+    "question": "分公司内部各级安全考试为百分制，(    )分及以上为合格，考试不合格者，延期进行补考，如补考仍不合格者，则按照分公司相关规定处置。",
+    "options": [
+      "90",
+      "85",
+      "80",
+      "60"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 5,
+    "sourceNumber": 4,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-10-006",
+    "bankId": "operations",
+    "type": "single",
+    "category": "安全教育培训",
+    "question": "分公司列车驾驶员、行车调度员、行车值班员、列车检修人员、线路检修员、特种设备检修员等人员安全教育培训档案须满足“”的管理要求。",
+    "options": [
+      "一人一档",
+      "一人一册",
+      "各级管理",
+      "属地管理"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 6,
+    "sourceNumber": 5,
+    "sourceType": "单选",
+    "originalAnswer": "A"
+  },
+  {
+    "id": "ops-10-007",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全教育培训",
+    "question": "各处室、中心安全教育培训项目包括三级安全教育（及）",
+    "options": [
+      "公司级",
+      "中心级",
+      "班组级",
+      "集团级"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 7,
+    "sourceNumber": 6,
+    "sourceType": "多选",
+    "originalAnswer": "ABC"
+  },
+  {
+    "id": "ops-10-008",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全教育培训",
+    "question": "分公司各级安全考试试卷须体现员工姓名、所在部门、考试日期及考试成绩等信息；安全考试试卷须（）逐题批改，留有（）；试卷错题须（）。",
+    "options": [
+      "用红笔",
+      "批改记录",
+      "黑笔",
+      "及时订正"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 8,
+    "sourceNumber": 7,
+    "sourceType": "单选",
+    "originalAnswer": "ABD",
+    "sourceNote": "原表题型标为单选，但答案列为 ABD，已按多选题呈现，保留原答案。"
+  },
+  {
+    "id": "ops-10-009",
+    "bankId": "operations",
+    "type": "multiple",
+    "category": "安全教育培训",
+    "question": "安全教育培训档案资料若有（）、( )等不符合安全管理要求的，各级安全培训负责人应逐级上报，补齐相关安全教育培训记录。",
+    "options": [
+      "丢失",
+      "破损",
+      "损坏",
+      "填写错误"
+    ],
+    "answer": [
+      0,
+      1
+    ],
+    "explanation": "原表未提供详细解析，请结合参考答案复习。",
+    "source": "附件2 运营公司安全题库",
+    "sourceSheet": "安全教育培训",
+    "sourceRow": 9,
+    "sourceNumber": 8,
+    "sourceType": "单选",
+    "originalAnswer": "AB",
+    "sourceNote": "原表题型标为单选，但答案列为 AB，已按多选题呈现，保留原答案。"
+  }
+];
